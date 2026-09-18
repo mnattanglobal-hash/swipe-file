@@ -31,6 +31,40 @@ Critério de pronto:
 7. **Testar de verdade:** entrar com um usuário, curtir 3 criativos, abrir em outro navegador (ou aba anônima), entrar de novo e confirmar que os 3 estão lá; entrar com outro usuário e confirmar que ele vê as escolhas do primeiro nos chips e no filtro "seleção da equipe".
 8. Opcional, depois de validar: decidir com o Matheus se o GitHub Pages continua no ar ou sai.
 
+## Fase 2: atualização automática, novidades e reciclagem de mídia
+
+Pedido do Matheus: o sistema na Imanto tem que se renovar sozinho. Fazer depois que a fase 1 (login e seleção salva) estiver validada.
+
+### O que precisa acontecer
+
+1. **Coleta recorrente.** Rodar a coleta na Meta Ad Library de forma agendada, uma vez por semana como padrão (configurável para diária), com cron ou systemd timer na VPS. A coleta revisita os produtores já mapeados e as buscas de descoberta, baixa imagem e vídeo dos anúncios novos e atualiza o catálogo.
+2. **Novidades em destaque.** Todo criativo tem a data em que foi visto pela primeira vez (`primeira_observacao`). O site ganha uma aba ou faixa **"Novidades"** no topo com o que entrou na última coleta, e um selo "novo" nos cards por 7 dias (ou até a coleta seguinte). O `start` da Ad Library é a data de início do anúncio, não a data em que a gente o encontrou: usar os dois campos separados.
+3. **Continua valendo o recorte:** só criativo de venda (página de vendas, checkout, VSL ou quiz). Isca grátis, aula gratuita, captura de lead, perfil social e app ficam fora. A regra já está em `coleta/build_criativos.py`, e o que ela bloqueia está documentado no README original.
+4. **Reciclagem de mídia.** Para a VPS não encher:
+   - Criativo **selecionado por alguém da equipe** nunca perde a mídia.
+   - Criativo **não selecionado** perde a mídia (imagem grande e vídeo) depois de um prazo, por exemplo 30 dias após a primeira observação. Proponha o prazo ao Matheus antes de ligar.
+   - Ao apagar a mídia, manter um registro leve: ID, produtor, copy, links e uma miniatura pequena, para o histórico não sumir. Isso também evita baixar de novo algo que já foi descartado.
+   - Criativo que sumiu da Ad Library (parou de rodar) e não foi selecionado pode sair do catálogo principal e ir para um "arquivo".
+   - Mostrar no site, para o Matheus, quanto espaço a mídia está ocupando e quanto a última reciclagem liberou.
+   - A limpeza apaga arquivos: rodar primeiro em modo simulação, mostrar ao Matheus o que seria apagado e só então ligar o automático.
+5. **Seleção da equipe manda na retenção.** O backend da fase 1 precisa expor para o job de limpeza a lista de IDs selecionados por qualquer usuário.
+
+### Ferramentas de coleta (pasta `continuar/coleta/`)
+
+Pipeline usado na coleta original, validado em 17/09/2026:
+- `harvest.sh <slug> <url> <scrolls> <sessão>`: abre a Ad Library com o `agent-browser` (Chrome headless), rola a página e roda `extract.js`, que extrai cada card (ID, data de início, nº de anúncios com o mesmo criativo, copy, destino, thumbnail, URL do vídeo). Na VPS vai precisar do `agent-browser` e do Chrome instalados (`npm i -g agent-browser && agent-browser install --with-deps`).
+- `byname.sh <slug> "<nome da página>" <scrolls> <sessão> <país>`: deep dive de um anunciante (usa `search_type=page`, não precisa de page_id).
+- `deepdive.sh`: o mesmo, por page_id.
+- `catalog.py`: consolida `dados/raw/*.json` em `dados/cards_all.json` **acumulando** (nunca sobrescreve o que já foi coletado). A base histórica completa está em `coleta/dados/cards_all.json.gz`.
+- `build_criativos.py`: aplica o recorte de venda e o mapa de anunciantes (`dados/mapa_anunciantes.json`) e gera o catálogo final.
+- `thumbs.py` e `dlvideos.py`: baixam imagem e vídeo. As URLs da Meta (fbcdn) expiram em poucos dias, então o download precisa acontecer logo depois da coleta.
+- `digest.py` e `scan.py`: relatórios de apoio (agrupar por copy, por anunciante).
+- `dados/`: mapa de anunciantes, dossiês de produtores (`produtores_parte*.json`) e as 50 fichas de análise manual (`destaques_*.json`; 47 seguem no catálogo depois do corte de isca grátis).
+
+Os scripts vieram de um Mac. Ajuste caminhos e o que for preciso para Linux. Rodar no máximo 3 sessões de navegador em paralelo: com 5 a Ad Library começa a devolver página vazia. A busca por palavra-chave da Meta funciona como OR entre os termos, então termo genérico traz muito ruído.
+
+Anunciante novo que aparecer nas buscas de descoberta só entra no catálogo depois de mapeado em `mapa_anunciantes.json`. Proponha ao Matheus uma forma simples de revisar os candidatos novos: por exemplo, uma lista "anunciantes descobertos esta semana" no próprio site, com botão para aprovar.
+
 ## Contrato da API (o front já chama exatamente isto)
 
 Uma única rota: `POST /api`. Corpo em JSON (o front envia com `fetch(API,{method:'POST',body:JSON.stringify(...)})`, então o `Content-Type` chega como `text/plain;charset=UTF-8`: o backend precisa aceitar JSON nesse content-type). Resposta sempre JSON com `ok: true|false`.
@@ -63,6 +97,7 @@ A implementação de referência (Google Apps Script, que não chegou a ser publ
 - `rebuild.py`: gera o `index.html` da raiz do repositório.
 - `dados/`: `criativos_site.json` (964 criativos já com caminhos `img/` e `vid/`), `produtores.json`, `formatos.json`, `testar.json`.
 - `referencia/Code.gs.referencia.js`: lógica de referência do backend.
+- `coleta/`: ferramentas e dados para a coleta recorrente (fase 2).
 
 ## Regras do Matheus para este trabalho
 

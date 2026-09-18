@@ -1,0 +1,292 @@
+[
+ {
+  "id": "fealves",
+  "anunciante": "Fe Alves",
+  "expert": "Felipe Alves",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Relacionamento masculino + sedução + \"livros proibidos\" (pegada esotérica/proibida)",
+  "produtos": [
+   {
+    "nome": "Grimório Proibido (combo de livros)",
+    "preco": "R$49,90 (combo), visto na peça; página com preço de R$97 riscado",
+    "plataforma": "PagTrust",
+    "url": "https://grimorioproibido.com.br/"
+   },
+   {
+    "nome": "Doce Obsessão (ebook + audiobook + ferramenta)",
+    "preco": "R$39,90 à vista",
+    "plataforma": "PagTrust",
+    "url": "https://doceobsessao.com.br/pv1/"
+   },
+   {
+    "nome": "O Manual Proibido",
+    "preco": "não identificado isoladamente (vendido em combo)",
+    "plataforma": "PagTrust",
+    "url": "https://omanualproibido.com.br/"
+   },
+   {
+    "nome": "Método Anti-Separação",
+    "preco": "não identificado",
+    "plataforma": "PagTrust",
+    "url": "https://metodoantiseparacao.com.br/"
+   }
+  ],
+  "anuncios_ativos": 164,
+  "midia": {
+   "imagem": 54,
+   "video": 108
+  },
+  "copies_distintas": 14,
+  "max_variacoes": 3,
+  "primeiro_anuncio_observado": "2026-03-23",
+  "evidencia": "FORTE",
+  "evidencias": [
+   "164 anúncios ativos na coleta de 17/09/2026",
+   "Conceito mais antigo ainda ativo com início em 23/03/2026 (quase 6 meses de veiculação contínua)",
+   "4 domínios de oferta diferentes rodando em paralelo (grimorioproibido, doceobsessao, metodoantiseparacao, omanualproibido), operação de publisher, não de produto único",
+   "Mix deliberado de 54 estáticos e 108 vídeos, com preço estampado na peça",
+   "Funil com redirecionador próprio (l.pagtrust.com.br) e página /pv1/ versionada"
+  ],
+  "observacoes": "A operação mais completa do Brasil dentro do recorte: catálogo de vários ebooks baratos, identidade visual única (vermelho/dourado/preto, capa 3D), e uso pesado de escassez datada (\"só até 31/07\", \"último dia\") nos estáticos.",
+  "formatos": [
+   "expert-segurando-produto",
+   "headline-grande-mockup",
+   "preco-riscado-escassez",
+   "recorte-de-papel-colagem",
+   "call-out-de-publico",
+   "reverse-psychology"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Fe%20Alves&search_type=page&media_type=all"
+ },
+ {
+  "id": "krausche",
+  "anunciante": "Lucas Krausche - Desenrolado",
+  "expert": "Lucas Krausche",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Reconquista masculina / relacionamento",
+  "produtos": [
+   {
+    "nome": "Código da Reconquista (VSL)",
+    "preco": "não exibido publicamente, VSL com botão liberado durante o vídeo",
+    "plataforma": "não identificada publicamente",
+    "url": "https://cdr.lkrausche.com/"
+   },
+   {
+    "nome": "Oferta feminina (mo.lkrausche.com)",
+    "preco": "não exibido publicamente",
+    "plataforma": "não identificada publicamente",
+    "url": "https://mo.lkrausche.com/"
+   }
+  ],
+  "anuncios_ativos": 143,
+  "midia": {
+   "imagem": 0,
+   "video": 119
+  },
+  "copies_distintas": 4,
+  "max_variacoes": 67,
+  "primeiro_anuncio_observado": "2026-05-13",
+  "evidencia": "FORTE",
+  "evidencias": [
+   "143 anúncios ativos na coleta de 17/09/2026, todos em vídeo",
+   "Um único criativo é compartilhado por 67 anúncios (campo \"67 anúncios usam esse criativo e esse texto\"), indício de estrutura com muitos conjuntos/contas rodando a mesma peça",
+   "Mesma copy rodando desde 13/05/2026 (4 meses)",
+   "Página terceira (\"Eli TEch\", 9 anúncios) veicula o mesmo criativo e o mesmo destino cdr.lkrausche.com, comportamento típico de afiliado/estrutura paralela",
+   "Split de tráfego próprio via Cloudflare Workers (split-traffic...workers.dev)",
+   "Perfil do expert no Instagram citado em resultado de busca pública com mais de 900 mil seguidores (@lkrausche), número de terceiro, não conferido diretamente no perfil"
+  ],
+  "observacoes": "Estratégia oposta à da Dri Martini: pouquíssima variação de copy (4 copies) e variação quase toda no vídeo. A copy do anúncio funciona como moldura fixa (\"Descubra o Segredo para Reconquistar sua Ex! 90% dos homens erram...\") e o criativo é o que muda.",
+  "formatos": [
+   "talking-head-legenda-karaoke",
+   "vsl-condensada",
+   "anuncio-sem-copy-toque-em-saiba-mais"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Lucas%20Krausche%20-%20Desenrolado&search_type=page&media_type=all"
+ },
+ {
+  "id": "drimartini",
+  "anunciante": "Dri Martini",
+  "expert": "Dri Martini",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Reconquista feminina / término / fases do homem",
+  "produtos": [
+   {
+    "nome": "Oferta de reconquista (tracking.drimartini.com.br → VSL)",
+    "preco": "não exibido publicamente na entrada do funil",
+    "plataforma": "não identificada publicamente",
+    "url": "https://tracking.drimartini.com.br/"
+   }
+  ],
+  "anuncios_ativos": 109,
+  "midia": {
+   "imagem": 9,
+   "video": 98
+  },
+  "copies_distintas": 35,
+  "max_variacoes": 11,
+  "primeiro_anuncio_observado": "2025-08-13",
+  "evidencia": "FORTE",
+  "evidencias": [
+   "109 anúncios ativos na coleta de 17/09/2026",
+   "Anúncio ativo com início em 13/08/2025, mais de 13 meses de veiculação contínua do mesmo conceito",
+   "35 copies distintas ativas ao mesmo tempo: operação de alto volume de ângulos, não de uma peça só",
+   "Todos os anúncios apontam para um único domínio de rastreio próprio (tracking.drimartini.com.br)",
+   "Lotes de 5 anúncios com a mesma copy e durações levemente diferentes (0:55, 0:57, 1:03, 1:04), teste sistemático de corte/edição"
+  ],
+  "observacoes": "Melhor referência brasileira de ARQUITETURA DE ÂNGULOS: um mecanismo único (\"o homem sente o término em fases\") recortado em dezenas de situações específicas (ele bloqueou, ele sumiu, ele apareceu com outra, ele responde rápido e não volta).",
+  "formatos": [
+   "talking-head-diagnostico",
+   "mecanismo-nomeado",
+   "situacao-especifica-hook",
+   "dramatizacao-split-screen"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Dri%20Martini&search_type=page&media_type=all"
+ },
+ {
+  "id": "italoventura",
+  "anunciante": "Italo Ventura",
+  "expert": "Italo Ventura",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Relacionamento feminino / atração / \"frases mágicas\"",
+  "produtos": [
+   {
+    "nome": "As 30 Frases Mágicas (masterclass/VSL)",
+    "preco": "não exibido publicamente na LP de entrada",
+    "plataforma": "não identificada publicamente",
+    "url": "https://lp.italoventura.com/"
+   }
+  ],
+  "anuncios_ativos": 100,
+  "midia": {
+   "imagem": 1,
+   "video": 96
+  },
+  "copies_distintas": 10,
+  "max_variacoes": 10,
+  "primeiro_anuncio_observado": "2026-02-28",
+  "evidencia": "FORTE",
+  "evidencias": [
+   "100 anúncios ativos na coleta de 17/09/2026",
+   "Conceito principal (\"Imagina ter um guia para fazer o homem ficar doido por você\") ativo desde 28/02/2026, quase 7 meses",
+   "59 anúncios rodando a mesma copy simultaneamente",
+   "Título de anúncio padronizado na Ad Library API: \"As 30 frases mágicas que mexem com o psicológico do HOMEM!\"",
+   "LP com arquivo de depoimentos em página separada (prova social isolada do pitch)"
+  ],
+  "observacoes": "Mecanismo numerado (\"30 frases\") é o ativo central: dá contorno, promete lista e cabe em qualquer hook.",
+  "formatos": [
+   "talking-head-promessa-numerada",
+   "mecanismo-numerado",
+   "segredo-revelacao"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Italo%20Ventura&search_type=page&media_type=all"
+ },
+ {
+  "id": "henriquechinfo",
+  "anunciante": "Henrique Chinfo Treinador",
+  "expert": "Henrique Chinfo / Henrique Ferreira (assinatura nas capas)",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Ebooks masculinos: relacionamento narcisista, disciplina, fé, procrastinação, autoestima masculina",
+  "produtos": [
+   {
+    "nome": "Como Superar um Relacionamento Narcisista (ebook, 90 dias)",
+    "preco": "R$47,00 riscado → R$17,97 (preço estampado na peça); outra peça mostra R$24,97",
+    "plataforma": "não identificada publicamente",
+    "url": "https://henriquechinfo.com.br/"
+   },
+   {
+    "nome": "O Homem de Verdade",
+    "preco": "R$37,00 (estampado na peça)",
+    "plataforma": "não identificada publicamente",
+    "url": "https://henriquechinfo.com.br/"
+   },
+   {
+    "nome": "60 Dias para Quebrar Ciclos",
+    "preco": "não estampado em todas as peças",
+    "plataforma": "não identificada publicamente",
+    "url": "https://henriquechinfo.com.br/"
+   },
+   {
+    "nome": "30 Dias para Vencer a Procrastinação",
+    "preco": "R$47,00 riscado → R$12,97 (estampado na peça)",
+    "plataforma": "não identificada publicamente",
+    "url": "https://henriquechinfo.com.br/"
+   },
+   {
+    "nome": "Como Ser Irresistível",
+    "preco": "R$47,00 riscado → R$17,97 (estampado na peça)",
+    "plataforma": "não identificada publicamente",
+    "url": "https://henriquechinfo.com.br/"
+   }
+  ],
+  "anuncios_ativos": 85,
+  "midia": {
+   "imagem": 85,
+   "video": 0
+  },
+  "copies_distintas": 55,
+  "max_variacoes": 4,
+  "primeiro_anuncio_observado": "2026-08-29",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "85 anúncios ativos, 100% estáticos, na coleta de 17/09/2026",
+   "55 copies distintas em menos de 3 semanas, cadência altíssima de produção de estático",
+   "Catálogo de pelo menos 5 ebooks diferentes anunciados em paralelo, todos com a mesma identidade visual",
+   "Preço impresso na própria peça (R$12,97 a R$37,00), com ancoragem de preço riscado",
+   "Janela de observação curta (início em 29/08/2026), por isso não há prova de continuidade longa"
+  ],
+  "observacoes": "A melhor aula de BIBLIOTECA A do Brasil neste recorte: sistema visual único (preto/dourado/vermelho, capa 3D, botão desenhado dentro da imagem) aplicado a dezenas de ângulos. Vale copiar a LÓGICA do sistema, nunca a arte.",
+  "formatos": [
+   "headline-grande-mockup",
+   "preco-na-peca-ancoragem",
+   "print-whatsapp-grupo",
+   "feed-instagram-simulado",
+   "carta-manuscrita",
+   "lista-sinais",
+   "infografico-zonas",
+   "reframe-isso-nao-e-um-livro",
+   "comparacao-cafe"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Henrique%20Chinfo%20Treinador&search_type=page&media_type=all"
+ },
+ {
+  "id": "annasouzamelo",
+  "anunciante": "Anna Souza Melo",
+  "expert": "Anna Souza Melo",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Relacionamento / infidelidade / \"descubra a verdade\"",
+  "produtos": [
+   {
+    "nome": "Oferta descubraverdade.com (VSL/advertorial)",
+    "preco": "não exibido publicamente",
+    "plataforma": "não identificada publicamente",
+    "url": "https://twr.descubraverdade.com/"
+   }
+  ],
+  "anuncios_ativos": 47,
+  "midia": {
+   "imagem": 0,
+   "video": 44
+  },
+  "copies_distintas": 1,
+  "max_variacoes": 5,
+  "primeiro_anuncio_observado": "2026-08-27",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "47 anúncios ativos com UMA única copy na coleta de 17/09/2026",
+   "Dois subdomínios de destino em paralelo (rdt. e twr. descubraverdade.com), indício de teste de página/rastreio",
+   "Veiculação concentrada entre 27/08 e 17/09/2026"
+  ],
+  "observacoes": "Caso didático do modelo oposto ao da Dri Martini: uma copy única replicada em dezenas de anúncios, com variação só no vídeo. Bom para testar \"copy âncora + biblioteca de vídeos\".",
+  "formatos": [
+   "talking-head-diagnostico",
+   "copia-unica-muitos-videos"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Anna%20Souza%20Melo&search_type=page&media_type=all"
+ }
+]

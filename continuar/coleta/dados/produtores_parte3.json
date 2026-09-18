@@ -1,0 +1,311 @@
+[
+ {
+  "id": "heldhonest",
+  "anunciante": "Rachel Morrison / Held and Honest",
+  "expert": "marca Held & Honest (autora assinada nas peças)",
+  "pais": "Estados Unidos",
+  "pais_code": "US",
+  "nicho": "Trauma, autoestima e regulação emocional",
+  "produtos": [
+   {
+    "nome": "Back To You Journal (diário guiado de 365 dias)",
+    "preco": "US$39,95",
+    "plataforma": "Shopify",
+    "url": "https://heldhonest.com/"
+   },
+   {
+    "nome": "Digital Back To You",
+    "preco": "US$32,95",
+    "plataforma": "Shopify",
+    "url": "https://heldhonest.com/"
+   },
+   {
+    "nome": "7-Minute Nighttime Reset Ritual",
+    "preco": "US$24,95",
+    "plataforma": "Shopify",
+    "url": "https://heldhonest.com/"
+   },
+   {
+    "nome": "Still Stuck (masterclass)",
+    "preco": "US$29,95",
+    "plataforma": "Shopify",
+    "url": "https://heldhonest.com/"
+   }
+  ],
+  "anuncios_ativos": 87,
+  "midia": {
+   "imagem": 63,
+   "video": 24
+  },
+  "copies_distintas": 27,
+  "max_variacoes": 5,
+  "primeiro_anuncio_observado": "2026-03-01",
+  "evidencia": "FORTE",
+  "evidencias": [
+   "87 anúncios ativos somando as duas páginas que veiculam a mesma oferta (Rachel Morrison e Held and Honest) na coleta de 17/09/2026",
+   "Conceito ativo desde 01/03/2026, mais de 6 meses",
+   "Duas páginas de anunciante diferentes rodando o mesmo domínio heldhonest.com",
+   "Catálogo de 4 produtos entre US$24,95 e US$39,95, todos dentro da faixa low ticket internacional",
+   "Garantia agressiva publicada na página: \"30 days. If it doesn't feel different, you don't pay\""
+  ],
+  "observacoes": "A melhor referência internacional de ESTÁTICO SILENCIOSO: imagem metafórica sem uma letra sequer (coração rachado com luz dourada, poltronas de consultório, rachadura no asfalto com luz) e a venda inteira acontece na copy longa. Usa autoridade emprestada (Bessel van der Kolk, \"The Body Keeps the Score\") como gancho de credibilidade.",
+  "formatos": [
+   "estatico-silencioso-metafora",
+   "copy-longa-autoridade-emprestada",
+   "reframe-definicao"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Rachel%20Morrison%20/%20Held%20and%20Honest&search_type=page&media_type=all"
+ },
+ {
+  "id": "dragonfire",
+  "anunciante": "Dragon Fire Method",
+  "expert": "Vincent van Dijk (autor)",
+  "pais": "Estados Unidos",
+  "pais_code": "US",
+  "nicho": "Desenvolvimento pessoal / resiliência",
+  "produtos": [
+   {
+    "nome": "Becoming Unbreakable, Special Edition (livro físico + 3 ebooks + audiobook)",
+    "preco": "US$27 (de US$89,99, com etapa intermediária de US$42 exibida na própria página)",
+    "plataforma": "venda direta do autor",
+    "url": "https://get.dragonfiremethod.com/"
+   }
+  ],
+  "anuncios_ativos": 4,
+  "midia": {
+   "imagem": 4,
+   "video": 0
+  },
+  "copies_distintas": 1,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-09-17",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "4 anúncios ativos, todos iniciados em 17/09/2026 (dia da coleta)",
+   "Oferta pública e completa: US$27, contador regressivo, garantia de 30 dias com \"keep the book\""
+  ],
+  "observacoes": "Entra pela ESTRUTURA DE OFERTA, não pelo volume: livro físico barato usado como low ticket, com ebooks e audiobook empilhados como bônus e ancoragem em três degraus (89,99 → 42 → 27). Modelo replicável para um produto físico simbólico e barato.",
+  "formatos": [
+   "oferta-escada-de-preco",
+   "bundle-fisico-digital"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Dragon%20Fire%20Method&search_type=page&media_type=all"
+ },
+ {
+  "id": "sigilmagik",
+  "anunciante": "Sarah Michelle",
+  "expert": "não identificado",
+  "pais": "Estados Unidos",
+  "pais_code": "US",
+  "nicho": "Espiritualidade / magia prática (sigilos) com camada de IA",
+  "produtos": [
+   {
+    "nome": "Sigil Magik Engine™",
+    "preco": "US$17 (de US$97)",
+    "plataforma": "não identificada publicamente",
+    "url": "https://sigilmagikengine.com/"
+   }
+  ],
+  "anuncios_ativos": 4,
+  "midia": {
+   "imagem": 4,
+   "video": 0
+  },
+  "copies_distintas": 3,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-08-19",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "4 anúncios ativos na coleta de 17/09/2026",
+   "Oferta pública: US$17, mecanismo nomeado (\"Magik Precision Matrix™\"), 5 bônus com valores atribuídos (US$127, US$97, US$147, US$97, US$47) e garantia \"Manifest or Don't Pay\" de 30 dias"
+  ],
+  "observacoes": "Aula completa de EMPILHAMENTO DE BÔNUS em espiritualidade low ticket: o produto é uma promessa de 10 minutos, o mecanismo tem nome registrado e os bônus somam um valor declarado muitas vezes maior que o preço. É o modelo mais próximo do que dá para rodar em espiritualidade.",
+  "formatos": [
+   "mecanismo-marcado-tm",
+   "empilhamento-de-bonus",
+   "promessa-de-tempo-curto"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Sarah%20Michelle&search_type=page&media_type=all"
+ },
+ {
+  "id": "blossomup",
+  "anunciante": "Maya Bennett - Love & Personality / Quizzes for You",
+  "expert": "marca BlossomUp",
+  "pais": "Estados Unidos",
+  "pais_code": "US",
+  "nicho": "Relacionamento, personalidade e intimidade, funil de quiz",
+  "produtos": [
+   {
+    "nome": "Testes/relatórios BlossomUp (attachment styles, love styles, intimidade)",
+    "preco": "não verificável a partir do Brasil, as páginas /lp/ retornam erro para IP brasileiro (bloqueio geográfico)",
+    "plataforma": "não identificada publicamente",
+    "url": "https://blossomup.co/lp/attachment-styles/"
+   }
+  ],
+  "anuncios_ativos": 55,
+  "midia": {
+   "imagem": 46,
+   "video": 9
+  },
+  "copies_distintas": 11,
+  "max_variacoes": 5,
+  "primeiro_anuncio_observado": "2026-04-26",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "55 anúncios ativos somando as duas páginas na coleta de 17/09/2026",
+   "Veiculação contínua desde 26/04/2026",
+   "Três LPs de teste diferentes em paralelo (/lp/sexual/, /lp/attachment-styles/, /lp/love-styles-2/), sendo que uma delas concentra 42 dos anúncios, indício claro de vencedor identificado",
+   "Não foi possível confirmar se o relatório é pago: as páginas bloqueiam acesso do Brasil"
+  ],
+  "observacoes": "Referência de ESTÁTICO-QUIZ: o criativo É o teste. Gráficos, mapas de personalidade e tabelas com estética de post orgânico, sem cara de anúncio. A ressalva honesta é que não consegui confirmar a monetização; trate como formato, não como prova de oferta paga.",
+  "formatos": [
+   "estatico-quiz-grafico",
+   "mapa-de-personalidade",
+   "tabela-tipos"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Maya%20Bennett%20-%20Love%20%26%20Personality%20/%20Quizzes%20for%20You&search_type=page&media_type=all"
+ },
+ {
+  "id": "valeriamendoza",
+  "anunciante": "Valeria Mendoza",
+  "expert": "Valeria Mendoza",
+  "pais": "México / mercado hispânico",
+  "pais_code": "MX",
+  "nicho": "Reconquista / relacionamento (espanhol)",
+  "produtos": [
+   {
+    "nome": "El Código de la Conquista (quiz → VSL)",
+    "preco": "não exibido antes do quiz",
+    "plataforma": "não identificada publicamente",
+    "url": "https://quiz.elcodigodelaconquista.site/"
+   }
+  ],
+  "anuncios_ativos": 20,
+  "midia": {
+   "imagem": 3,
+   "video": 17
+  },
+  "copies_distintas": 4,
+  "max_variacoes": 3,
+  "primeiro_anuncio_observado": "2026-03-27",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "20 anúncios ativos na coleta de 17/09/2026",
+   "Conceito ativo desde 27/03/2026, quase 6 meses",
+   "Domínio dedicado só ao quiz de entrada (quiz.elcodigodelaconquista.site)"
+  ],
+  "observacoes": "Mesma arquitetura da Mariana Vabo (quiz → VSL → checkout) em espanhol. Confirma que o funil de quiz é o padrão dominante do nicho de reconquista no mercado hispânico.",
+  "formatos": [
+   "quiz-como-entrada",
+   "talking-head-diagnostico"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=Valeria%20Mendoza&search_type=page&media_type=all"
+ },
+ {
+  "id": "andresnavarro",
+  "anunciante": "Andrés Navarro",
+  "expert": "Andrés Navarro",
+  "pais": "México / mercado hispânico",
+  "pais_code": "MX",
+  "nicho": "Reconquista (\"Efecto Replay\")",
+  "produtos": [
+   {
+    "nome": "Efecto Replay / Manual Perfecto",
+    "preco": "não identificado (páginas de entrada não exibem preço)",
+    "plataforma": "não identificada publicamente",
+    "url": "https://inlead.digital/efeito-replay"
+   }
+  ],
+  "anuncios_ativos": 43,
+  "midia": {
+   "imagem": 8,
+   "video": 35
+  },
+  "copies_distintas": 4,
+  "max_variacoes": 2,
+  "primeiro_anuncio_observado": "2026-06-02",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "43 anúncios ativos na coleta de 17/09/2026",
+   "Veiculação contínua desde 02/06/2026",
+   "Três domínios de destino em paralelo (inlead.digital, ex.efectoreplay.shop, manualperfecto.shop)",
+   "Mecanismo com nome próprio (\"Efecto Replay\")"
+  ],
+  "observacoes": "Nome de mecanismo excelente e transferível: \"Efeito Replay\" descreve o que a pessoa já sente (reviver a cena na cabeça) e vira o nome do método.",
+  "formatos": [
+   "mecanismo-nomeado",
+   "talking-head-diagnostico"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=Andr%C3%A9s%20Navarro&search_type=page&media_type=all"
+ },
+ {
+  "id": "marialopez",
+  "anunciante": "Maria López",
+  "expert": "não identificado",
+  "pais": "Mercado hispânico",
+  "pais_code": "MX",
+  "nicho": "Espiritualidade / rituais angelicais",
+  "produtos": [
+   {
+    "nome": "Angelical Rituals (VSL)",
+    "preco": "não identificado (página carrega só via JS)",
+    "plataforma": "não identificada publicamente",
+    "url": "https://quantum.angelicalrituals.com/vsl"
+   }
+  ],
+  "anuncios_ativos": 6,
+  "midia": {
+   "imagem": 6,
+   "video": 0
+  },
+  "copies_distintas": 5,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-07-13",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "6 anúncios estáticos ativos na coleta de 17/09/2026",
+   "Destino direto para /vsl, padrão de venda por vídeo"
+  ],
+  "observacoes": "Poucos anúncios, mas mostra o padrão estático → VSL em espiritualidade no mercado hispânico.",
+  "formatos": [
+   "estatico-para-vsl"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=Maria%20L%C3%B3pez&search_type=page&media_type=all"
+ },
+ {
+  "id": "aleviajournal",
+  "anunciante": "The Blood Sugar Journal / The Blood Pressure Journal",
+  "expert": "marca (Alevia / Auniva)",
+  "pais": "Estados Unidos",
+  "pais_code": "US",
+  "nicho": "Saúde, incluído apenas como FORMATO transferível",
+  "produtos": [
+   {
+    "nome": "Diários guiados de saúde (glicemia, pressão)",
+    "preco": "não confirmado (redirecionamento de alevia.com para auniva.co)",
+    "plataforma": "não identificada publicamente",
+    "url": "https://alevia.com/"
+   }
+  ],
+  "anuncios_ativos": 32,
+  "midia": {
+   "imagem": 26,
+   "video": 6
+  },
+  "copies_distintas": 8,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-06-17",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "32 anúncios ativos somando as duas páginas na coleta de 17/09/2026",
+   "Mesmíssima arquitetura de copy longa da Held & Honest, aplicada a outro nicho, indício de playbook replicado por operação especializada"
+  ],
+  "observacoes": "Não é do nosso nicho. Está aqui porque prova que o formato \"diário guiado + copy longa + imagem silenciosa\" é um playbook que roda em nichos diferentes. O produto \"diário guiado\" é o entregável mais fácil de produzir que encontrei.",
+  "formatos": [
+   "estatico-silencioso-metafora",
+   "copy-longa-autoridade-emprestada",
+   "produto-diario-guiado"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=The%20Blood%20Sugar%20Journal%20/%20The%20Blood%20Pressure%20Journal&search_type=page&media_type=all"
+ }
+]

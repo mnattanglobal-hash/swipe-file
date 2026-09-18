@@ -1,0 +1,560 @@
+[
+ {
+  "id": "eloaferreira",
+  "anunciante": "Eloa Ferreira",
+  "expert": "Eloa Ferreira",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Espiritualidade / tarot e baralho cigano",
+  "produtos": [
+   {
+    "nome": "36 Cartas do Baralho Cigano em Mapas Mentais",
+    "preco": "R$9,90 (básico) e R$27,90 (premium, de R$97,90) ou 2x R$14,95",
+    "plataforma": "Wiapy",
+    "url": "https://ciganavisual.lovable.app/"
+   }
+  ],
+  "anuncios_ativos": 12,
+  "midia": {
+   "imagem": 1,
+   "video": 11
+  },
+  "copies_distintas": 1,
+  "max_variacoes": 2,
+  "primeiro_anuncio_observado": "2026-08-13",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "12 anúncios ativos na coleta de 17/09/2026",
+   "Mesma copy rodando desde 13/08/2026",
+   "Preço público e escalonado (R$9,90 / R$27,90) com 4 bônus e garantia de 30 dias",
+   "Página de vendas construída em Lovable, operação enxuta e rápida de replicar"
+  ],
+  "observacoes": "Melhor referência brasileira de low ticket ESPIRITUAL com preço confirmado. Mostra o padrão \"produto de estudo\" (mapas mentais, guias, tabelas) em vez de promessa mágica, o que reduz risco de política de anúncios.",
+  "formatos": [
+   "talking-head-demonstracao-material",
+   "oferta-dois-niveis"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Eloa%20Ferreira&search_type=page&media_type=all"
+ },
+ {
+  "id": "thiagologo",
+  "anunciante": "Thiago Logoterapeuta",
+  "expert": "Thiago (logoterapeuta)",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Ansiedade / crises / terapia",
+  "produtos": [
+   {
+    "nome": "Kit O Fim das Crises (áudios \"bloqueadores automáticos de crise\")",
+    "preco": "R$67 (de R$197) ou 12x R$6,93",
+    "plataforma": "Hotmart",
+    "url": "https://kit.ofimdascrises.com.br/"
+   }
+  ],
+  "anuncios_ativos": 21,
+  "midia": {
+   "imagem": 2,
+   "video": 19
+  },
+  "copies_distintas": 4,
+  "max_variacoes": 3,
+  "primeiro_anuncio_observado": "2026-08-17",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "21 anúncios ativos na coleta de 17/09/2026",
+   "Dois destinos em paralelo: kit.ofimdascrises.com.br (16) e link.ansioblend.com (5), infoproduto e suplemento na mesma operação",
+   "Preço público com ancoragem R$197 → R$67, garantia incondicional de 7 dias",
+   "Vídeos longos para anúncio (1:17 a 2:12): formato VSL curta"
+  ],
+  "observacoes": "Referência de produto ENTREGÁVEL EM ÁUDIO: baixo custo de produção, alta percepção de uso imediato (\"bloqueia a crise em minutos\"). Formato de entregável mais fácil de replicar em espiritualidade e autoconhecimento.",
+  "formatos": [
+   "vsl-curta-autoridade",
+   "promessa-de-alivio-imediato"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Thiago%20Logoterapeuta&search_type=page&media_type=all"
+ },
+ {
+  "id": "kitdesapego",
+  "anunciante": "aks.informatica",
+  "expert": "não identificado (página de anunciante genérica)",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Dependência emocional / desapego / término",
+  "produtos": [
+   {
+    "nome": "Kit Desapego de Emergência",
+    "preco": "R$27,90 (de R$97,00)",
+    "plataforma": "Kiwify",
+    "url": "https://kitdesapegopro.com/"
+   }
+  ],
+  "anuncios_ativos": 5,
+  "midia": {
+   "imagem": 5,
+   "video": 0
+  },
+  "copies_distintas": 4,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-09-10",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "5 anúncios ativos na coleta de 17/09/2026, início em 10/09/2026",
+   "Preço e oferta totalmente públicos na página (R$27,90, garantia de 7 dias, 6 ferramentas + 3 bônus)",
+   "Sem histórico de continuidade observável"
+  ],
+  "observacoes": "Evidência fraca de escala, mas é o MELHOR EXEMPLO DE PRODUTO do recorte para copiar a lógica: ferramenta de emergência para o momento exato da dor (\"para a hora de mandar mensagem\"), com contador de dias e protocolo de 90 segundos. Produto pequeno, específico e acionável.",
+  "formatos": [
+   "copy-momento-exato",
+   "produto-ferramenta"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=aks.informatica&search_type=page&media_type=all"
+ },
+ {
+  "id": "pedrohenrique",
+  "anunciante": "Pedro Henrique",
+  "expert": "Pedro Henrique",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Reconquista / relacionamento",
+  "produtos": [
+   {
+    "nome": "Quiz de reconquista → oferta",
+    "preco": "não exibido antes do quiz",
+    "plataforma": "não identificada publicamente",
+    "url": "https://reconquistaquiz.lovable.app/"
+   }
+  ],
+  "anuncios_ativos": 16,
+  "midia": {
+   "imagem": 9,
+   "video": 7
+  },
+  "copies_distintas": 13,
+  "max_variacoes": 2,
+  "primeiro_anuncio_observado": "2024-02-05",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "16 anúncios ativos na coleta de 17/09/2026",
+   "Funil de QUIZ hospedado em Lovable (reconquistaquiz.lovable.app)",
+   "A mesma página de anunciante também roda oferta de nicho totalmente diferente (maletadovidraceiro.lovable.app), perfil de operador testando várias ofertas"
+  ],
+  "observacoes": "Interessante menos pelo volume e mais pelo padrão: operadores pequenos montando funil de quiz em no-code e testando nichos em paralelo.",
+  "formatos": [
+   "quiz-como-entrada",
+   "estatico-pergunta-diagnostico"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Pedro%20Henrique&search_type=page&media_type=all"
+ },
+ {
+  "id": "patrickbelmro",
+  "anunciante": "Patrick Belmro",
+  "expert": "Patrick Belmro",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Relacionamento feminino / atração",
+  "produtos": [
+   {
+    "nome": "Método PCH",
+    "preco": "não exibido publicamente na entrada",
+    "plataforma": "não identificada publicamente",
+    "url": "https://metodopch.com.br/"
+   }
+  ],
+  "anuncios_ativos": 18,
+  "midia": {
+   "imagem": 0,
+   "video": 17
+  },
+  "copies_distintas": 5,
+  "max_variacoes": 2,
+  "primeiro_anuncio_observado": "2026-08-16",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "18 anúncios ativos na coleta de 17/09/2026",
+   "Todos os vídeos entre 0:55 e 1:00, padrão de duração muito fechado, indício de um formato validado sendo replicado",
+   "Destino único metodopch.com.br"
+  ],
+  "observacoes": "Caso de \"formato travado\": mesmo enquadramento, mesma duração (~57s), variando só o gancho inicial. Mecanismo com sigla (PCH) dá nome proprietário ao método.",
+  "formatos": [
+   "talking-head-diagnostico",
+   "mecanismo-sigla"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Patrick%20Belmro&search_type=page&media_type=all"
+ },
+ {
+  "id": "thiagolins",
+  "anunciante": "Thiago Lins, O Guru do Amor",
+  "expert": "Thiago Lins Marques",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Reconquista / relacionamento",
+  "produtos": [
+   {
+    "nome": "Oferta de reconquista",
+    "preco": "não exibido publicamente na entrada",
+    "plataforma": "não identificada publicamente",
+    "url": "https://reconquista.thiagolinsmarques.com/"
+   }
+  ],
+  "anuncios_ativos": 11,
+  "midia": {
+   "imagem": 0,
+   "video": 10
+  },
+  "copies_distintas": 2,
+  "max_variacoes": 2,
+  "primeiro_anuncio_observado": "2026-09-02",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "11 anúncios ativos na coleta de 17/09/2026",
+   "Vídeos curtos (0:18 a 0:45) com copy de objeção (\"E se ele já estiver conversando com outra?\")",
+   "Janela curta de veiculação observada"
+  ],
+  "observacoes": "Bom acervo de ganchos de OBJEÇÃO no nicho de reconquista, mesmo com evidência de escala limitada.",
+  "formatos": [
+   "hook-objecao",
+   "talking-head-curto"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Thiago%20Lins%2C%20O%20Guru%20do%20Amor&search_type=page&media_type=all"
+ },
+ {
+  "id": "alicedutra",
+  "anunciante": "Alice Dutra",
+  "expert": "Alice Dutra",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Espiritualidade / corte de laços energéticos",
+  "produtos": [
+   {
+    "nome": "Magia de Corte Energético, Divórcio Energético",
+    "preco": "não exibido (checkout Kiwify com lote esgotado na consulta)",
+    "plataforma": "Kiwify",
+    "url": "https://pay.kiwify.com.br/6EViIvz"
+   }
+  ],
+  "anuncios_ativos": 12,
+  "midia": {
+   "imagem": 1,
+   "video": 11
+  },
+  "copies_distintas": 2,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-09-02",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "12 anúncios ativos na coleta de 17/09/2026",
+   "Anúncio aponta DIRETO para o checkout da Kiwify (pay.kiwify.com.br), sem página de vendas intermediária",
+   "Vídeos curtos (0:13 a 0:50)"
+  ],
+  "observacoes": "Caso raro e instrutivo: anúncio → checkout direto, sem LP. Só funciona com produto barato, promessa de uma frase e público quente. Vale testar em oferta de R$27.",
+  "formatos": [
+   "anuncio-direto-checkout",
+   "talking-head-ritual"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Alice%20Dutra&search_type=page&media_type=all"
+ },
+ {
+  "id": "marivabo",
+  "anunciante": "Mariana Vabo",
+  "expert": "Mariana Vabo",
+  "pais": "Brasil (veiculando em espanhol para LATAM)",
+  "pais_code": "BR",
+  "nicho": "Relacionamento / reconquista, versão em espanhol",
+  "produtos": [
+   {
+    "nome": "Guia do Instinto Primitivo (livro digital + 7 bônus)",
+    "preco": "não exibido antes do quiz/VSL; checkout Hotmart",
+    "plataforma": "Hotmart",
+    "url": "https://www.instintoprimitivo.marivabo.com/"
+   },
+   {
+    "nome": "Dominante",
+    "preco": "não identificado",
+    "plataforma": "não identificada publicamente",
+    "url": "https://www.dominante.marivabo.com/"
+   }
+  ],
+  "anuncios_ativos": 21,
+  "midia": {
+   "imagem": 0,
+   "video": 20
+  },
+  "copies_distintas": 5,
+  "max_variacoes": 53,
+  "primeiro_anuncio_observado": "2026-07-29",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "21 anúncios ativos na coleta de 17/09/2026",
+   "Um criativo compartilhado por 53 anúncios (campo \"53 anúncios usam esse criativo\")",
+   "Duas ofertas em paralelo (instintoprimitivo e dominante)",
+   "Funil quiz → VSL → Hotmart, com página em espanhol e prova social de compra recente (\"María G, México\")",
+   "Copy de urgência datada (\"HOJE É O ÚLTIMO DIA\")"
+  ],
+  "observacoes": "Referência de INTERNACIONALIZAÇÃO: produtora brasileira rodando a mesma mecânica em espanhol para o mercado latino. Modelo direto de expansão para quem já tem oferta validada em português.",
+  "formatos": [
+   "quiz-como-entrada",
+   "vsl-condensada",
+   "urgencia-datada"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Mariana%20Vabo&search_type=page&media_type=all"
+ },
+ {
+  "id": "boasnovas",
+  "anunciante": "Boas Novas",
+  "expert": "personagem \"pastor John Ross\" no advertorial",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Fé / estudo bíblico (transferível para espiritualidade)",
+  "produtos": [
+   {
+    "nome": "Raízes da Fé, A Jornada das 66 Raízes",
+    "preco": "R$57,90 (de R$147,00) na oferta completa; R$37,90 (de R$74,00) na oferta simples",
+    "plataforma": "Lastlink",
+    "url": "https://raizesdafee.lovable.app/"
+   }
+  ],
+  "anuncios_ativos": 18,
+  "midia": {
+   "imagem": 17,
+   "video": 1
+  },
+  "copies_distintas": 11,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-08-06",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "18 anúncios ativos na coleta de 17/09/2026, quase todos estáticos",
+   "Destino é um ADVERTORIAL declarado (raizesdafe-adv.lovable.app), com aviso de rodapé \"Este conteúdo não é uma reportagem jornalística\"",
+   "Advertorial e página de vendas construídos em Lovable",
+   "Preço público com duas faixas e garantia de 7 dias",
+   "Concorrente quase idêntico no mesmo período: \"Broto de Fé, A Jornada das 73 Raízes\" (brotodefe.com.br), sinal clássico de nicho sendo clonado"
+  ],
+  "observacoes": "Melhor exemplo brasileiro do funil ESTÁTICO → ADVERTORIAL → CHECKOUT dentro do recorte. O \"clone\" quase homônimo rodando ao mesmo tempo é, por si só, evidência de que o funil está performando.",
+  "formatos": [
+   "estatico-advertorial",
+   "historia-do-especialista",
+   "produto-de-estudo"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Boas%20Novas&search_type=page&media_type=all"
+ },
+ {
+  "id": "joaoborba",
+  "anunciante": "João Alexandre Borba",
+  "expert": "João Alexandre Borba",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Casamento / relacionamento cristão",
+  "produtos": [
+   {
+    "nome": "O Amor Vale a Pena (aula/VSL)",
+    "preco": "não exibido publicamente na entrada",
+    "plataforma": "não identificada publicamente",
+    "url": "https://oamorvaleapena.com.br/aula"
+   }
+  ],
+  "anuncios_ativos": 10,
+  "midia": {
+   "imagem": 0,
+   "video": 6
+  },
+  "copies_distintas": 4,
+  "max_variacoes": 2,
+  "primeiro_anuncio_observado": "2026-07-02",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "10 anúncios ativos na coleta de 17/09/2026",
+   "Destino /aula (VSL) com veiculação desde 02/07/2026"
+  ],
+  "observacoes": "Entrada por \"aula\" é fronteira: entra na biblioteca porque a aula leva a checkout de produto barato, mas é o tipo de funil que o briefing pede para evitar quando o objetivo principal é captura.",
+  "formatos": [
+   "vsl-aula",
+   "autoridade-narrativa"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Jo%C3%A3o%20Alexandre%20Borba&search_type=page&media_type=all"
+ },
+ {
+  "id": "homemdeatitude",
+  "anunciante": "Homem de Atitude",
+  "expert": "não identificado",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Reconquista masculina",
+  "produtos": [
+   {
+    "nome": "Manual da Reconquista (advertorial em blog)",
+    "preco": "não identificado",
+    "plataforma": "não identificada publicamente",
+    "url": "https://manualdareconquista.blog/"
+   }
+  ],
+  "anuncios_ativos": 5,
+  "midia": {
+   "imagem": 0,
+   "video": 5
+  },
+  "copies_distintas": 1,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-09-12",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "5 anúncios ativos na coleta de 17/09/2026",
+   "Destino em domínio .blog, padrão de advertorial",
+   "Copy de agitação direta: \"Vai deixá-la ir para os braços de outro homem?\""
+  ],
+  "observacoes": "Exemplo de hook de AGITAÇÃO MÁXIMA no masculino. Útil como referência de tom extremo, provavelmente fora do nosso tom, mas serve de régua do que existe no mercado.",
+  "formatos": [
+   "hook-agitacao-perda",
+   "advertorial-blog"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Homem%20de%20Atitude&search_type=page&media_type=all"
+ },
+ {
+  "id": "mulhersabia",
+  "anunciante": "Guia da Mulher Sábia",
+  "expert": "não identificado",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Autoestima feminina / relacionamento",
+  "produtos": [
+   {
+    "nome": "Guia da Mulher Sábia",
+    "preco": "não identificado",
+    "plataforma": "página em Vercel (v0-pagina-de-vendas-digital)",
+    "url": "https://v0-pagina-de-vendas-digital-ashen.vercel.app/"
+   }
+  ],
+  "anuncios_ativos": 4,
+  "midia": {
+   "imagem": 4,
+   "video": 0
+  },
+  "copies_distintas": 1,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-07-20",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "4 anúncios ativos na coleta de 17/09/2026",
+   "Página de vendas gerada em v0/Vercel",
+   "Copy longa em primeira pessoa com marcação de horário (\"Foi numa terça-feira à noite. 22h48.\")"
+  ],
+  "observacoes": "Referência de COPY LONGA EM ESTÁTICO: o anúncio é uma micro-história com horário exato, que é o detalhe que faz a cena parecer real.",
+  "formatos": [
+   "estatico-copy-longa-historia",
+   "detalhe-especifico-credibilidade"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Guia%20da%20Mulher%20S%C3%A1bia&search_type=page&media_type=all"
+ },
+ {
+  "id": "voxwitch",
+  "anunciante": "VoxWitch",
+  "expert": "não identificado",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Espiritualidade / rituais e magia",
+  "produtos": [
+   {
+    "nome": "Universo Velado",
+    "preco": "não identificado (página carrega só via JS)",
+    "plataforma": "não identificada publicamente",
+    "url": "https://universovelado.site/"
+   },
+   {
+    "nome": "Linha de sabonetes/banhos (Saboaria Magicka)",
+    "preco": "não identificado",
+    "plataforma": "e-commerce próprio",
+    "url": "https://saboariamagicka.com/"
+   }
+  ],
+  "anuncios_ativos": 57,
+  "midia": {
+   "imagem": 0,
+   "video": 57
+  },
+  "copies_distintas": 3,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-08-08",
+  "evidencia": "MODERADA",
+  "evidencias": [
+   "57 anúncios ativos na coleta de 17/09/2026, todos em vídeo, todos para universovelado.site",
+   "Apenas 3 copies distintas, mesmo padrão \"copy âncora + muitos vídeos\"",
+   "Operação paralela de produto físico místico (saboariamagicka)"
+  ],
+  "observacoes": "Principal operação de VOLUME em espiritualidade encontrada no Brasil neste recorte. Vale monitorar: 57 anúncios ativos num nicho onde a média é de 1 a 5.",
+  "formatos": [
+   "copia-unica-muitos-videos",
+   "ritual-como-mecanismo"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=VoxWitch&search_type=page&media_type=all"
+ },
+ {
+  "id": "aquieteagora",
+  "anunciante": "Aquiete Agora",
+  "expert": "marca (produto físico)",
+  "pais": "Brasil",
+  "pais_code": "BR",
+  "nicho": "Ansiedade, PRODUTO FÍSICO (floral), incluído só pelo formato do criativo",
+  "produtos": [
+   {
+    "nome": "Aquiete (floral de 5 flores, 30ml)",
+    "preco": "R$84,90 (1 un.), R$149,90 (2 un.), R$259,90 (4 un.)",
+    "plataforma": "checkout próprio",
+    "url": "https://aquieteagora.com.br/"
+   }
+  ],
+  "anuncios_ativos": 16,
+  "midia": {
+   "imagem": 16,
+   "video": 0
+  },
+  "copies_distintas": 6,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-09-15",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "16 anúncios estáticos ativos na coleta de 17/09/2026",
+   "Copy longa em primeira pessoa, com profissão e tempo específicos (\"Trinta e dois anos de sala de aula\", \"Durante três anos eu me escondi no provador da minha própria loja\")"
+  ],
+  "observacoes": "Não é infoproduto e o preço está acima da faixa. Entra na biblioteca exclusivamente como referência de FORMATO: confissão longa em primeira pessoa aplicada a estático, que é diretamente transferível para dependência emocional e autoestima.",
+  "formatos": [
+   "estatico-copy-longa-historia",
+   "confissao-primeira-pessoa"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Aquiete%20Agora&search_type=page&media_type=all"
+ },
+ {
+  "id": "sophiasanchez",
+  "anunciante": "Sophia Sanchez",
+  "expert": "Sophia Sanchez",
+  "pais": "Operação em espanhol veiculada a partir do Brasil",
+  "pais_code": "BR",
+  "nicho": "Reconquista (espanhol)",
+  "produtos": [
+   {
+    "nome": "Reconquista PRP",
+    "preco": "não identificado",
+    "plataforma": "não identificada publicamente",
+    "url": "https://www.reconquistaprp.online/"
+   }
+  ],
+  "anuncios_ativos": 8,
+  "midia": {
+   "imagem": 2,
+   "video": 6
+  },
+  "copies_distintas": 5,
+  "max_variacoes": 0,
+  "primeiro_anuncio_observado": "2026-09-10",
+  "evidencia": "LIMITADA",
+  "evidencias": [
+   "8 anúncios ativos na coleta de 17/09/2026",
+   "Criativos com selo de avaliação no próprio anúncio (\"⭐️⭐️⭐️⭐️⭐️ 4.9/5.0\")",
+   "Dois domínios .online em paralelo"
+  ],
+  "observacoes": "Exemplo do padrão \"prova social dentro do card do anúncio\" (nota com estrelas na descrição do link), barato de copiar e raro no Brasil.",
+  "formatos": [
+   "nota-estrelas-no-card",
+   "vsl-condensada"
+  ],
+  "ad_library": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Sophia%20Sanchez&search_type=page&media_type=all"
+ }
+]
