@@ -39,7 +39,7 @@ Pedido do Matheus: o sistema na Imanto tem que se renovar sozinho. Fazer depois 
 
 1. **Coleta recorrente.** Rodar a coleta na Meta Ad Library de forma agendada, uma vez por semana como padrão (configurável para diária), com cron ou systemd timer na VPS. A coleta revisita os produtores já mapeados e as buscas de descoberta, baixa imagem e vídeo dos anúncios novos e atualiza o catálogo.
 2. **Novidades em destaque.** Todo criativo tem a data em que foi visto pela primeira vez (`primeira_observacao`). O site ganha uma aba ou faixa **"Novidades"** no topo com o que entrou na última coleta, e um selo "novo" nos cards por 7 dias (ou até a coleta seguinte). O `start` da Ad Library é a data de início do anúncio, não a data em que a gente o encontrou: usar os dois campos separados.
-3. **Continua valendo o recorte:** só criativo de venda (página de vendas, checkout, VSL ou quiz). Isca grátis, aula gratuita, captura de lead, perfil social e app ficam fora. A regra já está em `coleta/build_criativos.py`, e o que ela bloqueia está documentado no README original.
+3. **Continua valendo o recorte:** só criativo de venda (página de vendas, checkout, VSL ou quiz). Isca grátis, aula gratuita, captura de lead, perfil social e app ficam fora. A regra já está em `coleta/build_criativos.py`, e o que ela bloqueia está documentado em `continuar/referencia/01-descartados.md`. A metodologia completa da coleta está em `continuar/referencia/00-metodologia.md`.
 4. **Reciclagem de mídia.** Para a VPS não encher:
    - Criativo **selecionado por alguém da equipe** nunca perde a mídia.
    - Criativo **não selecionado** perde a mídia (imagem grande e vídeo) depois de um prazo, por exemplo 30 dias após a primeira observação. Proponha o prazo ao Matheus antes de ligar.
