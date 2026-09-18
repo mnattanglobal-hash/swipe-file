@@ -1,0 +1,978 @@
+[
+ {
+  "id": "headline-grande-mockup",
+  "nome": "Headline gigante + mockup do produto",
+  "biblioteca": "A (estático)",
+  "descricao": "Fundo escuro, uma frase em caixa alta ocupando o terço superior, capa 3D do ebook no centro-baixo, botão desenhado dentro da imagem. A peça inteira é um outdoor: dá para ler o argumento sem abrir a copy.",
+  "estrutura": [
+   "Frase-choque em 5 a 9 palavras, em caixa alta, com uma palavra em cor de destaque",
+   "Subtítulo de uma linha que explica a frase",
+   "Mockup 3D da capa (dá materialidade a um PDF)",
+   "Selo de preço com ancoragem (de R$47 por R$17,97)",
+   "Botão falso: \"QUERO O MÉTODO\" / \"BAIXAR AGORA\""
+  ],
+  "exemplos": [
+   {
+    "produtor": "Henrique Chinfo",
+    "ad": "1055469420591739",
+    "nota": "\"VOCÊ NÃO É LOUCA. VOCÊ ESTÁ SENDO PROGRAMADA.\" + capa + R$24,97",
+    "url": "https://www.facebook.com/ads/library/?id=1055469420591739"
+   },
+   {
+    "produtor": "Henrique Chinfo",
+    "ad": "1058069787030645",
+    "nota": "\"4 PARTES. 36 CAPÍTULOS. 1 MÉTODO, ZERO ENROLAÇÃO.\" + oferta R$47 → R$17,97",
+    "url": "https://www.facebook.com/ads/library/?id=1058069787030645"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "narcisismo",
+   "disciplina",
+   "fé"
+  ],
+  "hooks": [
+   "VOCÊ NÃO É LOUCA. VOCÊ ESTÁ SENDO PROGRAMADA.",
+   "ISSO NÃO É UM LIVRO. É UM MANUAL DE GUERRA.",
+   "O QUE VOCÊ NÃO QUEBRA, VOCÊ TRANSMITE."
+  ],
+  "mecanismo": "Nomeação da dor + prova de estrutura (números de partes/capítulos reduzem o medo de \"mais um PDF vago\") + ancoragem de preço.",
+  "dificuldade": "Baixa depois que o sistema visual existe: 1 template, 1 fonte, 1 paleta.",
+  "velocidade": "Muito alta. Uma pessoa produz 10 variações por dia trocando só a headline.",
+  "adapt_relacionamento": "Trocar a frase por uma verdade dura do término: \"ELE NÃO SUMIU. ELE TESTOU SE VOCÊ IA CORRER ATRÁS.\"",
+  "adapt_autoconhecimento": "\"VOCÊ NÃO ESTÁ CANSADA. VOCÊ ESTÁ CARREGANDO O QUE NÃO É SEU.\"",
+  "adapt_espiritualidade": "\"NÃO É AZAR. É UM CICLO QUE NINGUÉM TE ENSINOU A FECHAR.\" com mockup do guia e selo de preço."
+ },
+ {
+  "id": "preco-na-peca-ancoragem",
+  "nome": "Preço estampado na peça com ancoragem",
+  "biblioteca": "A (estático)",
+  "descricao": "O preço vira o elemento visual principal, com o valor cheio riscado e o valor promocional gigante, muitas vezes com prazo (\"R$17,97 HOJE. AMANHÃ PODE SER R$47. DEPOIS, R$97\").",
+  "estrutura": [
+   "Número grande e legível a 1 metro do celular",
+   "Preço anterior riscado ao lado",
+   "Linha de prazo ou escada de preço futura",
+   "Bullets curtos do que vem junto",
+   "Botão dentro da imagem"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Henrique Chinfo",
+    "ad": "1102605259181452",
+    "nota": "\"R$ 17,97 HOJE. AMANHÃ PODE SER R$47. DEPOIS, R$97.\"",
+    "url": "https://www.facebook.com/ads/library/?id=1102605259181452"
+   },
+   {
+    "produtor": "Fe Alves",
+    "ad": "1698639421255574",
+    "nota": "\"SOLTEIRO NÃO PODE DEIXAR PASSAR\" com De R$97 por R$XX e prazo até 31/07",
+    "url": "https://www.facebook.com/ads/library/?id=1698639421255574"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "desenvolvimento pessoal",
+   "espiritualidade"
+  ],
+  "hooks": [
+   "R$17,97 HOJE. AMANHÃ PODE SER R$47.",
+   "93% DE DESCONTO SÓ ATÉ O DIA 31.",
+   "3 LIVROS DE CONQUISTA PROIBIDA POR UM VALOR ABSURDAMENTE BAIXO."
+  ],
+  "mecanismo": "Ancoragem + aversão à perda + prova de que o clique não vai custar caro (qualifica o tráfego e reduz o susto no checkout).",
+  "dificuldade": "Muito baixa.",
+  "velocidade": "Máxima: muda só o número e o prazo.",
+  "adapt_relacionamento": "Usar o preço como filtro: \"Se R$27 é caro pra você hoje, esse material não é pra você.\"",
+  "adapt_autoconhecimento": "Escada de preço honesta e datada, que a equipe precisa realmente cumprir para não queimar a marca.",
+  "adapt_espiritualidade": "\"O valor de um maço de vela. A diferença de um ciclo inteiro.\""
+ },
+ {
+  "id": "print-whatsapp-grupo",
+  "nome": "Print de conversa (WhatsApp / DM / grupo)",
+  "biblioteca": "A (estático)",
+  "descricao": "A imagem imita a interface de mensagem, com o produto embaixo ou ao lado. Parece conteúdo pessoal no meio do feed e ganha o primeiro segundo de atenção.",
+  "estrutura": [
+   "Cabeçalho de conversa com nome plausível (grupo, contato salvo com apelido)",
+   "Duas a quatro mensagens curtas que já contam o conflito",
+   "Mensagem final que abre curiosidade ou entrega a virada",
+   "Mockup do produto e botão abaixo"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Henrique Chinfo",
+    "ad": "1096007439622270",
+    "nota": "Print de grupo \"IRMANDADE DE HOMENS\" com \"Você não precisa mais lutar sozinho\" + O Homem de Verdade R$37",
+    "url": "https://www.facebook.com/ads/library/?id=1096007439622270"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "autoestima masculina",
+   "dependência emocional"
+  ],
+  "hooks": [
+   "QUEM CARREGA TUDO SOZINHO, UMA HORA QUEBRA.",
+   "\"Ele respondeu isso e eu entendi tudo.\"",
+   "\"Não manda essa mensagem. Lê isso antes.\""
+  ],
+  "mecanismo": "Interrupção de padrão por interface nativa + voyeurismo (ler conversa alheia) + prova social implícita.",
+  "dificuldade": "Baixa (template de chat no Canva/Figma).",
+  "velocidade": "Alta: cada objeção vira um diálogo novo.",
+  "adapt_relacionamento": "Conversa com a amiga às 2h da manhã: \"ele visualizou e não respondeu\".",
+  "adapt_autoconhecimento": "Conversa consigo mesma: notas do celular em vez de chat.",
+  "adapt_espiritualidade": "Print de consulta: \"você sonhou com isso de novo?\", cuidado para não prometer resultado mágico."
+ },
+ {
+  "id": "feed-instagram-simulado",
+  "nome": "Post orgânico simulado (moldura de feed/story)",
+  "biblioteca": "A (estático)",
+  "descricao": "A peça inclui os ícones do Instagram (coração, avião, câmera) ou a moldura de story, disfarçando o anúncio de conteúdo.",
+  "estrutura": [
+   "Moldura ou ícones da plataforma",
+   "Imagem central com cara de post pessoal",
+   "Frase de conteúdo, não de venda",
+   "Produto entra discreto, no rodapé"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Henrique Chinfo",
+    "ad": "1002858612824039",
+    "nota": "Post com ícones de feed: \"O QUE VOCÊ NÃO QUEBRA, VOCÊ TRANSMITE.\"",
+    "url": "https://www.facebook.com/ads/library/?id=1002858612824039"
+   },
+   {
+    "produtor": "Henrique Chinfo",
+    "ad": "1075681885250686",
+    "nota": "\"VOCÊ SE SABOTA QUANDO ESTÁ QUASE CONSEGUINDO?\" em moldura de feed",
+    "url": "https://www.facebook.com/ads/library/?id=1075681885250686"
+   }
+  ],
+  "nichos": [
+   "todos"
+  ],
+  "hooks": [
+   "Frases de conteúdo que a pessoa salvaria mesmo sem comprar nada."
+  ],
+  "mecanismo": "Camuflagem: o cérebro classifica como conteúdo antes de classificar como anúncio.",
+  "dificuldade": "Baixa.",
+  "velocidade": "Alta.",
+  "adapt_relacionamento": "Frase-verdade sobre término dentro da moldura, com o guia aparecendo só no canto.",
+  "adapt_autoconhecimento": "Citação curta com a estética do perfil da marca.",
+  "adapt_espiritualidade": "Frase de sabedoria + símbolo, mantendo um padrão visual fixo de paleta e tipografia."
+ },
+ {
+  "id": "carta-manuscrita",
+  "nome": "Carta, diário ou anotação manuscrita",
+  "biblioteca": "A (estático)",
+  "descricao": "Foto de um caderno, carta ou página de diário com texto à mão, muitas vezes iluminado por vela. Comunica intimidade e confissão.",
+  "estrutura": [
+   "Superfície física real (papel amassado, caderno, mesa de madeira)",
+   "Texto curto à mão, em primeira pessoa, com erro humano proposital",
+   "Headline impressa por cima ou abaixo",
+   "Produto pequeno no canto"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Henrique Chinfo",
+    "ad": "1060106546998829",
+    "nota": "\"UM DIA, SEU FILHO VAI CONTAR QUEM VOCÊ FOI.\" sobre um diário aberto",
+    "url": "https://www.facebook.com/ads/library/?id=1060106546998829"
+   },
+   {
+    "produtor": "Henrique Chinfo",
+    "ad": "1073652698582406",
+    "nota": "\"CASAMENTOS NÃO MORREM POR ERROS. MORREM POR ORGULHO.\" em carta à luz de vela",
+    "url": "https://www.facebook.com/ads/library/?id=1073652698582406"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "fé",
+   "autoconhecimento"
+  ],
+  "hooks": [
+   "O que eu escreveria pra ele se soubesse que não ia mandar.",
+   "A página do diário que eu nunca mostrei pra ninguém."
+  ],
+  "mecanismo": "Intimidade e autenticidade percebida: texto à mão não parece departamento de marketing.",
+  "dificuldade": "Média (precisa de foto real ou geração cuidadosa).",
+  "velocidade": "Média.",
+  "adapt_relacionamento": "Carta não enviada para o ex, encaixa perfeitamente com produto de desapego.",
+  "adapt_autoconhecimento": "Página de diário com a mesma frase repetida, mostrando o padrão.",
+  "adapt_espiritualidade": "Caderno de orações ou de intenções, com vela e pedra ao lado."
+ },
+ {
+  "id": "lista-sinais",
+  "nome": "Lista de sinais / checklist com X e ✓",
+  "biblioteca": "A (estático)",
+  "descricao": "\"5 sinais de que você está sendo drenada por um narcisista\", com itens marcados em vermelho. O leitor se diagnostica dentro do anúncio.",
+  "estrutura": [
+   "Título numerado",
+   "4 a 6 itens curtíssimos, cada um uma cena reconhecível",
+   "Marcação visual (X vermelho, check verde)",
+   "CTA que promete o mapa da saída"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Henrique Chinfo",
+    "ad": "1346598814129875",
+    "nota": "\"5 SINAIS DE QUE VOCÊ ESTÁ SENDO DRENADO POR UM NARCISISTA\" + \"QUERO O MAPA DA FUGA\"",
+    "url": "https://www.facebook.com/ads/library/?id=1346598814129875"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "dependência emocional",
+   "autoestima"
+  ],
+  "hooks": [
+   "5 sinais de que não é amor, é dependência.",
+   "3 coisas que toda pessoa carregando culpa alheia faz sem perceber."
+  ],
+  "mecanismo": "Autodiagnóstico: cada item confirmado aumenta o compromisso com a solução.",
+  "dificuldade": "Baixa.",
+  "velocidade": "Máxima: cada dor vira uma lista nova.",
+  "adapt_relacionamento": "\"4 sinais de que você virou opção e não escolha.\"",
+  "adapt_autoconhecimento": "\"5 sinais de que você está em modo sobrevivência.\"",
+  "adapt_espiritualidade": "\"3 sinais de ciclo repetido\", descrever comportamento observável, não destino."
+ },
+ {
+  "id": "comparacao-cafe",
+  "nome": "Comparação com gasto banal",
+  "biblioteca": "A (estático)",
+  "descricao": "Coloca o preço lado a lado com um gasto que a pessoa faz sem pensar (café, delivery, lanche).",
+  "estrutura": [
+   "Imagem do objeto banal (xícara, lanche)",
+   "Frase de comparação direta",
+   "Preço idêntico dos dois lados",
+   "Pergunta que força a escolha"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Henrique Chinfo",
+    "ad": "1132875299442024",
+    "nota": "\"VOCÊ PREFERE GASTAR R$12,97 EM UM CAFÉ… OU NA CHAVE QUE DESTRAVA SUA ROTINA EM 30 DIAS?\"",
+    "url": "https://www.facebook.com/ads/library/?id=1132875299442024"
+   }
+  ],
+  "nichos": [
+   "todos"
+  ],
+  "hooks": [
+   "Você gasta R$12,97 em um café sem pensar duas vezes.",
+   "Metade de uma pizza. A diferença de um ano inteiro."
+  ],
+  "mecanismo": "Reenquadramento de valor: tira o produto da categoria \"curso\" e coloca na categoria \"gasto pequeno do dia\".",
+  "dificuldade": "Muito baixa.",
+  "velocidade": "Máxima.",
+  "adapt_relacionamento": "Comparar com o valor gasto em bebida no fim de semana pós-término.",
+  "adapt_autoconhecimento": "Comparar com uma sessão de terapia (com cuidado para não desmerecer terapia).",
+  "adapt_espiritualidade": "Comparar com o valor de uma consulta avulsa de tarot."
+ },
+ {
+  "id": "estatico-silencioso-metafora",
+  "nome": "Imagem silenciosa + copy longa (escola editorial)",
+  "biblioteca": "A (estático)",
+  "descricao": "Nenhuma letra na imagem. Uma metáfora visual forte (coração rachado com luz dourada, rachadura no asfalto com raiz de luz, duas poltronas de consultório) segura o scroll, e a venda inteira acontece no texto do anúncio, que tem 200 a 500 palavras.",
+  "estrutura": [
+   "Imagem quadrada, tom cinematográfico, zero texto",
+   "Primeira linha da copy que é uma afirmação contraintuitiva",
+   "3 a 6 parágrafos curtos, cada um com uma virada",
+   "Revelação do mecanismo",
+   "Oferta discreta no fim"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Rachel Morrison / Held & Honest (EUA)",
+    "ad": "1675149096875459",
+    "nota": "Coração de vidro rachado com luz + copy sobre o que Bessel van der Kolk realmente descobriu",
+    "url": "https://www.facebook.com/ads/library/?id=1675149096875459"
+   },
+   {
+    "produtor": "Rachel Morrison / Held & Honest (EUA)",
+    "ad": "785564587951995",
+    "nota": "Rachadura com raiz dourada + \"Trauma is a Greek word. And it doesn't mean the event at all.\"",
+    "url": "https://www.facebook.com/ads/library/?id=785564587951995"
+   },
+   {
+    "produtor": "Boas Novas (BR)",
+    "ad": "1064913109326707",
+    "nota": "Mesma arquitetura em português, aplicada ao Salmo 22",
+    "url": "https://www.facebook.com/ads/library/?id=1064913109326707"
+   }
+  ],
+  "nichos": [
+   "trauma",
+   "autoconhecimento",
+   "fé",
+   "espiritualidade"
+  ],
+  "hooks": [
+   "A maioria dos terapeutas leu esse livro. Quase nenhum contou aos pacientes o que ele achou de verdade.",
+   "A maioria dos cristãos sabe disso. Eis o que a maioria nunca ouviu dizer."
+  ],
+  "mecanismo": "Autoridade emprestada + revelação de informação privilegiada + a imagem funcionando como pausa, não como cartaz.",
+  "dificuldade": "Média: a imagem é fácil, a copy é difícil. Exige um redator de verdade.",
+  "velocidade": "Média: cada peça é um mini-ensaio, mas o esqueleto se repete.",
+  "adapt_relacionamento": "Autoridade emprestada de pesquisa sobre apego + imagem de duas xícaras, uma cheia e uma vazia.",
+  "adapt_autoconhecimento": "Encaixe natural para oferta premium de autoconhecimento: elegante, sem estética de infoproduto barato.",
+  "adapt_espiritualidade": "Símbolo silencioso (pedra, fio, luz atravessando) com copy que explica a origem histórica do símbolo."
+ },
+ {
+  "id": "copy-longa-autoridade-emprestada",
+  "nome": "Copy longa com autoridade emprestada",
+  "biblioteca": "A (estático) e B (vídeo)",
+  "descricao": "O anúncio começa citando um nome, livro ou estudo reconhecido e imediatamente cria um gap: \"todo mundo leu, quase ninguém entendeu a parte que importa\".",
+  "estrutura": [
+   "Nome/obra reconhecível",
+   "Números que provam a autoridade (4 milhões de cópias, 38 idiomas)",
+   "A virada: o que essa autoridade disse e ninguém repetiu",
+   "Ponte para o mecanismo do produto"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Rachel Morrison / Held & Honest (EUA)",
+    "ad": "1719189890210716",
+    "nota": "\"Near the end of The Body Keeps the Score, Bessel van der Kolk left one warning...\"",
+    "url": "https://www.facebook.com/ads/library/?id=1719189890210716"
+   },
+   {
+    "produtor": "Maria López (mercado em inglês)",
+    "ad": "999265549772127",
+    "nota": "\"In 2022, three brilliant scientists won the Nobel Prize in Physics for proving Quantum Entanglement\" aplicado a ritual angelical",
+    "url": "https://www.facebook.com/ads/library/?id=999265549772127"
+   }
+  ],
+  "nichos": [
+   "trauma",
+   "espiritualidade",
+   "autoconhecimento"
+  ],
+  "hooks": [
+   "Em 2022, três cientistas ganharam o Nobel provando X. Ninguém te contou o que isso significa pra sua vida."
+  ],
+  "mecanismo": "Transferência de credibilidade + curiosidade por informação suprimida.",
+  "dificuldade": "Média-alta: exige checagem real da fonte citada.",
+  "velocidade": "Média.",
+  "adapt_relacionamento": "Citar pesquisa real sobre apego ou luto e trazer a consequência prática.",
+  "adapt_autoconhecimento": "Usar um conceito clássico (Jung, sombra) com citação correta.",
+  "adapt_espiritualidade": "Ponte história/ciência → prática. Regra da casa: citar fonte verificável, nunca inventar estudo."
+ },
+ {
+  "id": "estatico-copy-longa-historia",
+  "nome": "Confissão em primeira pessoa (micro-história)",
+  "biblioteca": "A (estático)",
+  "descricao": "A copy é uma cena real com nome, idade, profissão, cidade e horário. O leitor entra na história antes de perceber que é anúncio.",
+  "estrutura": [
+   "Cena concreta com detalhe verificável (\"o último provador do corredor\", \"22h48\")",
+   "Identificação: nome, idade, ocupação",
+   "O fundo do poço",
+   "A virada e o que mudou",
+   "Oferta no último parágrafo"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Aquiete Agora (BR, produto físico)",
+    "ad": "1639637140854426",
+    "nota": "\"Durante três anos eu me escondi no provador da minha própria loja.\"",
+    "url": "https://www.facebook.com/ads/library/?id=1639637140854426"
+   },
+   {
+    "produtor": "Aquiete Agora (BR)",
+    "ad": "1608646200805180",
+    "nota": "\"Trinta e dois anos de sala de aula e eu aprendi a segurar tudo.\"",
+    "url": "https://www.facebook.com/ads/library/?id=1608646200805180"
+   },
+   {
+    "produtor": "Guia da Mulher Sábia (BR)",
+    "ad": "4390011614648260",
+    "nota": "\"Foi numa terça-feira à noite. 22h48.\"",
+    "url": "https://www.facebook.com/ads/library/?id=4390011614648260"
+   }
+  ],
+  "nichos": [
+   "ansiedade",
+   "autoestima",
+   "relacionamento"
+  ],
+  "hooks": [
+   "Durante três anos eu me escondi no provador da minha própria loja.",
+   "Eu percebi tarde demais que o problema não era falta de amor. Era falta de valor."
+  ],
+  "mecanismo": "Transporte narrativo: quem entra na história perde a defesa contra o anúncio. O detalhe específico é o que sustenta a credibilidade.",
+  "dificuldade": "Média.",
+  "velocidade": "Média-alta: cada persona da base vira uma história.",
+  "adapt_relacionamento": "Depoimento de quem passou pelo término, com profissão e rotina específicas.",
+  "adapt_autoconhecimento": "Cena de exaustão cotidiana, sem diagnóstico clínico.",
+  "adapt_espiritualidade": "Cena de virada espiritual contada sem promessa de milagre.",
+  "alerta": "Só use história real ou explicitamente ficcional/ilustrativa. História inventada em primeira pessoa é risco de marca e de política."
+ },
+ {
+  "id": "estatico-advertorial",
+  "nome": "Estático → advertorial (notícia/artigo)",
+  "biblioteca": "A (estático)",
+  "descricao": "O anúncio leva para uma página com cara de reportagem ou artigo, que só vende no fim. A imagem do anúncio costuma ser editorial ou ilustrativa, nunca com preço.",
+  "estrutura": [
+   "Criativo com imagem de reportagem ou cena histórica",
+   "Copy que é o primeiro parágrafo da matéria",
+   "Advertorial com aviso de rodapé",
+   "Oferta no fim do artigo, com checkout em outra plataforma"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Boas Novas (BR)",
+    "ad": "967315516369495",
+    "nota": "Arca da Aliança gerada em IA → advertorial raizesdafe-adv.lovable.app → Lastlink R$57,90",
+    "url": "https://www.facebook.com/ads/library/?id=967315516369495"
+   },
+   {
+    "produtor": "Homem de Atitude (BR)",
+    "ad": "2028102461215983",
+    "nota": "Destino em domínio .blog (manualdareconquista.blog)",
+    "url": "https://www.facebook.com/ads/library/?id=2028102461215983"
+   }
+  ],
+  "nichos": [
+   "fé",
+   "relacionamento",
+   "saúde"
+  ],
+  "hooks": [
+   "As últimas palavras de Jesus não foram um grito de desespero. Foram uma citação."
+  ],
+  "mecanismo": "Pré-venda por conteúdo: o advertorial entrega valor real e só então pede a compra, o que reduz a resistência do clique.",
+  "dificuldade": "Média: exige uma página a mais, mas dá para montar em no-code (Lovable, v0).",
+  "velocidade": "Média.",
+  "adapt_relacionamento": "Artigo \"por que o cérebro trata término como abstinência\" com a oferta no fim.",
+  "adapt_autoconhecimento": "Artigo sobre um conceito com história (sombra, arquétipo) e oferta do guia.",
+  "adapt_espiritualidade": "Artigo sobre a origem de um símbolo e a oferta do material de estudo. Manter o aviso de que não é reportagem."
+ },
+ {
+  "id": "estatico-quiz-grafico",
+  "nome": "Estático-quiz (gráfico, mapa ou tabela)",
+  "biblioteca": "A (estático)",
+  "descricao": "O criativo é o próprio teste: mapa de personalidade colorido, tabela de tipos, gráfico de estilos de apego. Estética de post salvo, não de anúncio.",
+  "estrutura": [
+   "Título em forma de pergunta (\"What is Your Attachment Style?\")",
+   "Visual de dado: gráfico, mapa, tabela, quadro comparativo",
+   "Botão \"Take Test\" dentro da imagem",
+   "Destino: quiz que segmenta e depois vende"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Maya Bennett / BlossomUp (EUA)",
+    "ad": "976159695442832",
+    "nota": "Gráfico de montanhas com os 4 estilos de apego + botão \"Take Test\"",
+    "url": "https://www.facebook.com/ads/library/?id=976159695442832"
+   },
+   {
+    "produtor": "Maya Bennett / BlossomUp (EUA)",
+    "ad": "1299653295581723",
+    "nota": "Tabela ilustrada \"what kinda girlfriend am i\" com 6 tipos",
+    "url": "https://www.facebook.com/ads/library/?id=1299653295581723"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "personalidade",
+   "autoconhecimento"
+  ],
+  "hooks": [
+   "Qual é o seu estilo de apego?",
+   "Que tipo de parceira você é quando se sente ameaçada?"
+  ],
+  "mecanismo": "Curiosidade sobre si mesmo, o motor mais barato que existe. O quiz ainda entrega segmentação para a oferta certa.",
+  "dificuldade": "Baixa para o criativo, média para o funil.",
+  "velocidade": "Alta.",
+  "adapt_relacionamento": "\"Qual é o seu padrão quando ele se afasta?\" com 4 tipos ilustrados.",
+  "adapt_autoconhecimento": "Mapa de arquétipos com eixos, na nossa paleta.",
+  "adapt_espiritualidade": "\"Qual ciclo está aberto na sua vida?\", 4 tipos com símbolo para cada.",
+  "alerta": "Só entra na nossa biblioteca se o quiz terminar em VENDA. Quiz que termina em captura de e-mail é outro objetivo."
+ },
+ {
+  "id": "expert-segurando-produto",
+  "nome": "Expert segurando o produto (autoridade física)",
+  "biblioteca": "A (estático)",
+  "descricao": "Foto real do expert com os livros/materiais na mão, olhando para a câmera. Dá corpo ao produto digital e rosto à oferta.",
+  "estrutura": [
+   "Foto do expert em fundo simples",
+   "Produtos físicos ou impressos nas mãos",
+   "Headline de escassez ou benefício por cima",
+   "Preço riscado e botão"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Fe Alves (BR)",
+    "ad": "1032284002856883",
+    "nota": "Expert com Grimório Proibido e O Manual Proibido + \"ÚLTIMO DIA\"",
+    "url": "https://www.facebook.com/ads/library/?id=1032284002856883"
+   },
+   {
+    "produtor": "Fe Alves (BR)",
+    "ad": "1744629680072129",
+    "nota": "\"Mulher, faça qualquer homem ficar obcecado por você\" com De R$87 Por R$39,90",
+    "url": "https://www.facebook.com/ads/library/?id=1744629680072129"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "sedução",
+   "espiritualidade"
+  ],
+  "hooks": [
+   "Nunca foi tão barato parar de sofrer por homem.",
+   "Último dia para ganhar de graça o melhor livro que eu já escrevi."
+  ],
+  "mecanismo": "Prova física + reciprocidade (o \"ganhe\" do combo) + rosto conhecido do criador.",
+  "dificuldade": "Baixa: uma sessão de fotos rende 30 peças.",
+  "velocidade": "Alta.",
+  "adapt_relacionamento": "Foto da especialista com o guia impresso e o selo do preço.",
+  "adapt_autoconhecimento": "Mesma lógica com o material impresso sobre a mesa de trabalho.",
+  "adapt_espiritualidade": "Foto com o material e os objetos do ritual, sem prometer resultado sobrenatural."
+ },
+ {
+  "id": "recorte-de-papel-colagem",
+  "nome": "Colagem de recortes de papel",
+  "biblioteca": "A (estático)",
+  "descricao": "Frases impressas em pedaços de papel rasgado, espalhadas sobre a mesa com os produtos. Parece bilhete, não arte de agência.",
+  "estrutura": [
+   "Fundo de madeira ou mesa",
+   "Dois a quatro recortes com frases curtas",
+   "Produto no meio da composição",
+   "Preço em um dos recortes"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Fe Alves (BR)",
+    "ad": "1026793410323419",
+    "nota": "\"ELE NUNCA MAIS VAI TE TRATAR COMO 2ª OPÇÃO\" em recortes",
+    "url": "https://www.facebook.com/ads/library/?id=1026793410323419"
+   },
+   {
+    "produtor": "Fe Alves (BR)",
+    "ad": "1417693627094560",
+    "nota": "\"NÃO LEIA ESSES LIVROS se você é homem e quer conquistar qualquer mulher com 1 frase\"",
+    "url": "https://www.facebook.com/ads/library/?id=1417693627094560"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "sedução"
+  ],
+  "hooks": [
+   "Não leia esses livros se…",
+   "Depois que ler esses 2 livros."
+  ],
+  "mecanismo": "Psicologia reversa + estética artesanal que não parece anúncio.",
+  "dificuldade": "Baixa.",
+  "velocidade": "Alta.",
+  "adapt_relacionamento": "Recortes com as frases que a pessoa já disse pra si mesma.",
+  "adapt_autoconhecimento": "Bilhetes com crenças a serem rasgadas.",
+  "adapt_espiritualidade": "Papéis de intenção, leitura direta com a estética de ritual."
+ },
+ {
+  "id": "talking-head-diagnostico",
+  "nome": "Talking head + diagnóstico (vídeo)",
+  "biblioteca": "B (vídeo)",
+  "descricao": "Selfie de 30 a 60 segundos, sem produção, em que o expert descreve a situação exata da pessoa nos primeiros 3 segundos e entrega um diagnóstico com nome.",
+  "estrutura": [
+   "0–3s: descrição da cena específica (\"Ele te bloqueou e agiu como se você nem existisse\")",
+   "3–10s: reenquadramento (\"Isso não é fim, é fase\")",
+   "corpo: o mecanismo em 2 ou 3 passos",
+   "fechamento: \"clique em saiba mais\" + promessa do que tem do outro lado"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Dri Martini (BR)",
+    "ad": "1509284150373490",
+    "nota": "\"Ele te bloqueou, deixou suas mensagens no arquivado…\" (0:28)",
+    "url": "https://www.facebook.com/ads/library/?id=1509284150373490"
+   },
+   {
+    "produtor": "Dri Martini (BR)",
+    "ad": "1786608658996685",
+    "nota": "\"O que costuma trazer um homem de volta não é saudade da relação. É saudade da SENSAÇÃO.\" (0:46)",
+    "url": "https://www.facebook.com/ads/library/?id=1786608658996685"
+   },
+   {
+    "produtor": "Patrick Belmro (BR)",
+    "ad": "1440082664977531",
+    "nota": "Formato travado em ~57s, variando só o gancho",
+    "url": "https://www.facebook.com/ads/library/?id=1440082664977531"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "dependência emocional",
+   "ansiedade"
+  ],
+  "hooks": [
+   "Ele responde na hora e mesmo assim não volta.",
+   "O sumiço dele não é uma resposta, é uma fase."
+  ],
+  "mecanismo": "Especificidade: quanto mais exata a cena, mais a pessoa sente que o vídeo é sobre ela.",
+  "dificuldade": "Muito baixa: celular, luz natural, legenda.",
+  "velocidade": "Máxima: 10 a 15 gravações por sessão.",
+  "adapt_relacionamento": "Uma cena por vídeo: \"ele visualizou\", \"ele curtiu o story e não respondeu\".",
+  "adapt_autoconhecimento": "\"Você está exausta e ninguém entende por quê\" com diagnóstico nomeado.",
+  "adapt_espiritualidade": "\"Você fecha um ciclo e ele volta em outra pessoa\" com o mecanismo explicado."
+ },
+ {
+  "id": "mecanismo-nomeado",
+  "nome": "Mecanismo com nome próprio",
+  "biblioteca": "A e B",
+  "descricao": "O produto inteiro gira em torno de um conceito batizado, que explica a dor e organiza a solução: as \"fases do homem\", as \"30 frases mágicas\", o \"Efecto Replay\", o \"Método PCH\", a \"Magik Precision Matrix™\".",
+  "estrutura": [
+   "Nomear o fenômeno que a pessoa já vive",
+   "Afirmar que ele tem ordem/etapas",
+   "Dizer que agir na fase errada estraga tudo",
+   "Vender o mapa das fases"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Dri Martini (BR)",
+    "ad": "1608064884243097",
+    "nota": "\"Ele não sente o término no mesmo tempo que você. Ele sente em fases.\"",
+    "url": "https://www.facebook.com/ads/library/?id=1608064884243097"
+   },
+   {
+    "produtor": "Italo Ventura (BR)",
+    "ad": "1688395215542459",
+    "nota": "\"Existem 30 frases mágicas que invadem o psicológico do homem\"",
+    "url": "https://www.facebook.com/ads/library/?id=1688395215542459"
+   },
+   {
+    "produtor": "Andrés Navarro (MX)",
+    "ad": "1000493162341524",
+    "nota": "\"Efecto Replay\"",
+    "url": "https://www.facebook.com/ads/library/?id=1000493162341524"
+   }
+  ],
+  "nichos": [
+   "todos"
+  ],
+  "hooks": [
+   "Existe um passo que não dá pra dizer num anúncio, porque aplicado na fase errada ele fecha a porta."
+  ],
+  "mecanismo": "Um nome próprio transforma conselho genérico em propriedade intelectual e justifica o preço.",
+  "dificuldade": "Baixa de produzir, alta de inventar bem.",
+  "velocidade": "O nome é um ativo: rende dezenas de criativos.",
+  "adapt_relacionamento": "Nomear o ciclo do desapego em etapas observáveis.",
+  "adapt_autoconhecimento": "Nomear o padrão de autossabotagem com um termo da marca.",
+  "adapt_espiritualidade": "Nomear o processo de fechamento de ciclo, com etapas praticáveis."
+ },
+ {
+  "id": "copia-unica-muitos-videos",
+  "nome": "Copy âncora + biblioteca de vídeos",
+  "biblioteca": "B (vídeo)",
+  "descricao": "Uma única copy de anúncio, testada e travada, replicada em dezenas de anúncios cujo criativo muda. A variável testada é só o vídeo.",
+  "estrutura": [
+   "Copy vencedora fixa",
+   "N vídeos diferentes com o mesmo argumento",
+   "Mesmo destino e mesmo CTA"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Lucas Krausche (BR)",
+    "ad": "2303747663789831",
+    "nota": "85 anúncios com a mesma copy; um criativo chega a ser usado por 67 anúncios",
+    "url": "https://www.facebook.com/ads/library/?id=2303747663789831"
+   },
+   {
+    "produtor": "Anna Souza Melo (BR)",
+    "ad": "1090915226951800",
+    "nota": "47 anúncios ativos com UMA copy",
+    "url": "https://www.facebook.com/ads/library/?id=1090915226951800"
+   },
+   {
+    "produtor": "VoxWitch (BR)",
+    "ad": "2859825941039332",
+    "nota": "57 anúncios ativos com 3 copies",
+    "url": "https://www.facebook.com/ads/library/?id=2859825941039332"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "espiritualidade"
+  ],
+  "hooks": [
+   "Descubra o segredo para reconquistar sua ex. 90% dos homens erram ao tentar."
+  ],
+  "mecanismo": "Isola a variável: com a copy fixa, a diferença de performance é atribuível ao vídeo.",
+  "dificuldade": "Baixa.",
+  "velocidade": "Máxima.",
+  "adapt_relacionamento": "Escolher a copy campeã e produzir 10 vídeos por semana em cima dela.",
+  "adapt_autoconhecimento": "Idem, com a copy da dor central da oferta.",
+  "adapt_espiritualidade": "Idem. É o método mais barato de achar o criativo vencedor."
+ },
+ {
+  "id": "quiz-como-entrada",
+  "nome": "Quiz como porta de entrada da venda",
+  "biblioteca": "A e B",
+  "descricao": "O anúncio promete um diagnóstico rápido; o quiz de 4 a 8 perguntas segmenta e aquece; no fim vem VSL ou página de vendas com a oferta personalizada.",
+  "estrutura": [
+   "Anúncio com pergunta de diagnóstico",
+   "Quiz curto com perguntas sobre a situação atual",
+   "Tela de \"analisando\" para dar peso ao resultado",
+   "VSL/oferta ajustada ao perfil"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Mariana Vabo (BR→ES)",
+    "ad": "1513563520537211",
+    "nota": "Quiz → VSL → Hotmart, em espanhol",
+    "url": "https://www.facebook.com/ads/library/?id=1513563520537211"
+   },
+   {
+    "produtor": "Valeria Mendoza (MX)",
+    "ad": "1257515579915459",
+    "nota": "quiz.elcodigodelaconquista.site",
+    "url": "https://www.facebook.com/ads/library/?id=1257515579915459"
+   },
+   {
+    "produtor": "Pedro Henrique (BR)",
+    "ad": "1493256725943587",
+    "nota": "reconquistaquiz.lovable.app",
+    "url": "https://www.facebook.com/ads/library/?id=1493256725943587"
+   }
+  ],
+  "nichos": [
+   "relacionamento",
+   "autoconhecimento",
+   "espiritualidade"
+  ],
+  "hooks": [
+   "Responda 5 perguntas e descubra em que fase ele está."
+  ],
+  "mecanismo": "Compromisso e coerência: quem respondeu 6 perguntas já investiu na conversa. E o resultado personalizado aumenta a percepção de adequação.",
+  "dificuldade": "Média (o quiz é um produto à parte, mas dá para montar em no-code).",
+  "velocidade": "Alta depois de pronto: muda só o criativo de entrada.",
+  "adapt_relacionamento": "\"Descubra em que fase do desapego você está.\"",
+  "adapt_autoconhecimento": "\"Qual padrão te trouxe até aqui?\"",
+  "adapt_espiritualidade": "\"Qual ciclo está aberto na sua vida?\" com material de estudo no fim."
+ },
+ {
+  "id": "anuncio-direto-checkout",
+  "nome": "Anúncio direto para o checkout",
+  "biblioteca": "A e B",
+  "descricao": "Sem página de vendas: o botão leva direto para o checkout da plataforma. Só funciona com preço baixo, promessa de uma frase e público quente.",
+  "estrutura": [
+   "Promessa única e concreta",
+   "Prova rápida (depoimento ou demonstração)",
+   "CTA explícito de compra",
+   "Checkout com a oferta descrita no próprio campo do produto"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Alice Dutra (BR)",
+    "ad": "1787715982257314",
+    "nota": "Anúncio → pay.kiwify.com.br, sem LP intermediária",
+    "url": "https://www.facebook.com/ads/library/?id=1787715982257314"
+   }
+  ],
+  "nichos": [
+   "espiritualidade",
+   "relacionamento"
+  ],
+  "hooks": [
+   "Aprenda a cortar conexões que estão pesando na sua vida."
+  ],
+  "mecanismo": "Remoção de atrito: menos um clique, menos uma página para carregar.",
+  "dificuldade": "Muito baixa.",
+  "velocidade": "Máxima.",
+  "adapt_relacionamento": "Testar em produto de R$27 para público de remarketing.",
+  "adapt_autoconhecimento": "Idem.",
+  "adapt_espiritualidade": "Idem, é o teste mais barato de fazer nesta lista."
+ },
+ {
+  "id": "dramatizacao-split-screen",
+  "nome": "Dramatização e split screen",
+  "biblioteca": "B (vídeo)",
+  "descricao": "Duas cenas empilhadas (ela de um lado, ele do outro) ou uma pequena encenação com atores, legendada, imitando conteúdo de novela curta.",
+  "estrutura": [
+   "Cena 1: o comportamento dele",
+   "Cena 2: o que ela interpreta",
+   "Legenda que nomeia o erro",
+   "Virada e CTA"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Dri Martini (BR)",
+    "ad": "1616139233232582",
+    "nota": "Split com duas cenas e legenda",
+    "url": "https://www.facebook.com/ads/library/?id=1616139233232582"
+   }
+  ],
+  "nichos": [
+   "relacionamento"
+  ],
+  "hooks": [
+   "Se a sua…",
+   "O homem que…"
+  ],
+  "mecanismo": "Reconhecimento de cena: a pessoa se vê no enquadramento sem precisar de explicação.",
+  "dificuldade": "Média (duas gravações e edição).",
+  "velocidade": "Média.",
+  "adapt_relacionamento": "Encenação curta do \"visualizou e não respondeu\".",
+  "adapt_autoconhecimento": "Split entre \"o que eu digo\" e \"o que eu sinto\".",
+  "adapt_espiritualidade": "Split entre a rotina e o ritual."
+ },
+ {
+  "id": "vsl-condensada",
+  "nome": "VSL condensada no criativo (1 a 3 min)",
+  "biblioteca": "B (vídeo)",
+  "descricao": "O anúncio já é a VSL curta: abre com promessa, apresenta o mecanismo, prova e chamada, tudo em 60 a 180 segundos, geralmente com a copy quase vazia (\"Toque em Saiba Mais\").",
+  "estrutura": [
+   "0–5s: promessa ou provocação",
+   "5–30s: história ou credencial",
+   "30–120s: mecanismo + prova",
+   "fechamento: oferta e CTA"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Mariana Vabo (BR→ES)",
+    "ad": "1049068751301128",
+    "nota": "Vídeos de 2:49 a 3:56 com copy de urgência",
+    "url": "https://www.facebook.com/ads/library/?id=1049068751301128"
+   },
+   {
+    "produtor": "Thiago Logoterapeuta (BR)",
+    "ad": "1434515255223223",
+    "nota": "Vídeos de 1:17 a 2:12 para oferta de R$67",
+    "url": "https://www.facebook.com/ads/library/?id=1434515255223223"
+   },
+   {
+    "produtor": "Lucas Krausche (BR)",
+    "ad": "1880666309759155",
+    "nota": "Copy do anúncio reduzida a \"Toque em Saiba Mais!\"",
+    "url": "https://www.facebook.com/ads/library/?id=1880666309759155"
+   }
+  ],
+  "nichos": [
+   "todos"
+  ],
+  "hooks": [
+   "Toque em saiba mais.",
+   "Assista antes que saia do ar."
+  ],
+  "mecanismo": "Pré-qualificação: quem assiste 2 minutos chega quente na página e converte melhor, mesmo com CPM maior.",
+  "dificuldade": "Média.",
+  "velocidade": "Baixa: é a peça mais cara da lista.",
+  "adapt_relacionamento": "Versão de 90s da VSL principal, cortada para os 3 primeiros minutos da oferta.",
+  "adapt_autoconhecimento": "Idem.",
+  "adapt_espiritualidade": "Idem, com cuidado redobrado de política de anúncios."
+ },
+ {
+  "id": "nota-estrelas-no-card",
+  "nome": "Avaliação com estrelas no card do anúncio",
+  "biblioteca": "A e B",
+  "descricao": "O campo de descrição do link (abaixo do criativo) recebe \"⭐️⭐️⭐️⭐️⭐️ 4.9/5.0\", simulando a aparência de um produto avaliado.",
+  "estrutura": [
+   "Título curto do link",
+   "Linha de estrelas com nota",
+   "CTA padrão"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Sophia Sanchez (ES)",
+    "ad": "1068306992608102",
+    "nota": "\"Mira cómo reconquistar tu ex ➡️ ⭐️⭐️⭐️⭐️⭐️ (4.9 / 5.0)\"",
+    "url": "https://www.facebook.com/ads/library/?id=1068306992608102"
+   }
+  ],
+  "nichos": [
+   "relacionamento"
+  ],
+  "hooks": [
+   "⭐️⭐️⭐️⭐️⭐️ 4.9/5.0"
+  ],
+  "mecanismo": "Prova social visual em um espaço que quase ninguém usa.",
+  "dificuldade": "Nenhuma: é só texto no campo de descrição.",
+  "velocidade": "Máxima.",
+  "adapt_relacionamento": "Só use se a nota for real e auditável (base de avaliações do produto).",
+  "adapt_autoconhecimento": "Idem.",
+  "adapt_espiritualidade": "Idem.",
+  "alerta": "Nota inventada é propaganda enganosa. Só vale com avaliação real documentada."
+ },
+ {
+  "id": "empilhamento-de-bonus",
+  "nome": "Empilhamento de bônus com valor declarado",
+  "biblioteca": "A (estático) e página",
+  "descricao": "A oferta lista 4 a 6 bônus, cada um com valor atribuído, somando muito mais que o preço. Funciona no criativo como lista e na página como tabela.",
+  "estrutura": [
+   "Produto principal",
+   "Bônus 1 a 5 com valor em destaque",
+   "Soma do valor total",
+   "Preço final minúsculo em comparação",
+   "Garantia com nome (\"Manifest or Don't Pay\")"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Sigil Magik Engine (EUA)",
+    "ad": "1068295102325815",
+    "nota": "US$17 com 5 bônus somando US$515 declarados",
+    "url": "https://www.facebook.com/ads/library/?id=1068295102325815"
+   },
+   {
+    "produtor": "Dragon Fire Method (EUA)",
+    "ad": "1067215982969254",
+    "nota": "US$27 com livro físico + 3 ebooks + audiobook",
+    "url": "https://www.facebook.com/ads/library/?id=1067215982969254"
+   }
+  ],
+  "nichos": [
+   "espiritualidade",
+   "desenvolvimento pessoal"
+  ],
+  "hooks": [
+   "Manifeste resultados reais em 10 minutos."
+  ],
+  "mecanismo": "Ancoragem por acumulação e sensação de assimetria (recebo muito mais do que pago).",
+  "dificuldade": "Baixa.",
+  "velocidade": "Alta.",
+  "adapt_relacionamento": "Guia + tabela de mensagens + áudio de 7 minutos, cada um com valor declarado honesto.",
+  "adapt_autoconhecimento": "Guia + diário imprimível + trilha de áudio.",
+  "adapt_espiritualidade": "Material de estudo + calendário lunar + banco de símbolos."
+ },
+ {
+  "id": "produto-ferramenta",
+  "nome": "Produto-ferramenta para o momento exato",
+  "biblioteca": "oferta (afeta todo o criativo)",
+  "descricao": "Em vez de \"curso sobre desapego\", o produto é uma ferramenta para o minuto da crise: \"para a hora de mandar mensagem\", \"bloqueador de crise em áudio\", \"protocolo de 90 segundos\".",
+  "estrutura": [
+   "Nomear o momento exato da dor",
+   "Entregar de 3 a 6 ferramentas curtas",
+   "Contador ou registro de progresso",
+   "Preço baixo e acesso imediato no navegador"
+  ],
+  "exemplos": [
+   {
+    "produtor": "Kit Desapego de Emergência (BR)",
+    "ad": "1493256725943587",
+    "nota": "R$27,90, Kiwify, 6 ferramentas + contador de dias",
+    "url": "https://www.facebook.com/ads/library/?id=1493256725943587"
+   },
+   {
+    "produtor": "Thiago Logoterapeuta (BR)",
+    "ad": "1105182758638953",
+    "nota": "Áudios \"bloqueadores automáticos de crise\", R$67",
+    "url": "https://www.facebook.com/ads/library/?id=1105182758638953"
+   }
+  ],
+  "nichos": [
+   "dependência emocional",
+   "ansiedade",
+   "desapego"
+  ],
+  "hooks": [
+   "Você já abriu a conversa, escreveu a mensagem e ficou olhando pra tela.",
+   "Se você já pegou o celular no meio da noite pensando em procurar alguém."
+  ],
+  "mecanismo": "Utilidade imediata: a pessoa compra alívio para hoje, não transformação para o ano que vem.",
+  "dificuldade": "Média (é produto, não criativo).",
+  "velocidade": "O criativo sai sozinho: cada momento de crise é um anúncio.",
+  "adapt_relacionamento": "Kit para a madrugada do término.",
+  "adapt_autoconhecimento": "Kit para o dia de ansiedade alta.",
+  "adapt_espiritualidade": "Ritual de 5 minutos para o momento de angústia, descrever prática, não milagre."
+ }
+]
